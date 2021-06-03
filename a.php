@@ -1,182 +1,844 @@
 
-<!DOCTYPE html><html lang="id"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"/><link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png"/><link rel="manifest" href="/favicon/site.webmanifest"/><link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#FFFFFF"/><link rel="shortcut icon" href="/favicon/favicon.ico"/><meta name="msapplication-config" content="/favicon/browserconfig.xml"/><meta name="msapplication-TileColor" content="#FFFFFF"/><link rel="alternate" type="application/rss+xml" title="GoodDoctor » Feed" href="https://www.gooddoctor.co.id/feed/"/><meta name="theme-color" content="#FFFFFF"/><link rel="preconnect" href="https://www.test.gooddoctor.co.id"/><link rel="dns-prefetch" href="https://www.test.gooddoctor.co.id"/><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-              'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-N93FVBM');</script><script src="https://cms.gooddoctor.co.id/wp-content/uploads/inquiry.js"></script><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><link rel="canonical" href="https://www.gooddoctor.co.id/hidup-sehat/info-sehat/obat-asam-urat-alami/"/><meta name="robots" content="index,follow"/><meta name="googlebot" content="index,follow"/><meta name="description" content="Asam urat menyebabkan rasa nyeri yang tidak tertahankan. Ketika kamu mengalaminya, ada beberapa obat asam urat alami yang bisa jadi pilihan."/><meta name="twitter:card" content="summary_large_image"/><meta property="og:title" content="9 Obat Asam Urat Alami yang Bisa Ditemukan di Dapur, Nomor 7 Paling Mudah! &amp;#8211; Good Doctor | Tips Kesehatan, Chat Dokter, Beli Obat Online"/><meta property="og:description" content="Asam urat menyebabkan rasa nyeri yang tidak tertahankan. Ketika kamu mengalaminya, ada beberapa obat asam urat alami yang bisa jadi pilihan."/><meta property="og:image" content="https://www.gooddoctor.co.id/wp-content/uploads/2020/06/obat-asam-urat-alami.jpg"/><meta property="og:image:alt" content="obat asam urat alami"/><meta property="og:image:width" content="1000"/><meta property="og:image:height" content="667"/><title>9 Obat Asam Urat Alami yang Bisa Ditemukan di Dapur, Nomor 7 Paling Mudah! &amp;#8211; Good Doctor | Tips Kesehatan, Chat Dokter, Beli Obat Online</title><meta name="next-head-count" content="14"/><link rel="preload" href="/_next/static/css/650f9b1bd22ad6d52bcf.css" as="style"/><link rel="stylesheet" href="/_next/static/css/650f9b1bd22ad6d52bcf.css" data-n-g=""/><link rel="preload" href="/_next/static/css/2400c4434392b234b8b0.css" as="style"/><link rel="stylesheet" href="/_next/static/css/2400c4434392b234b8b0.css" data-n-p=""/><noscript data-n-css=""></noscript><link rel="preload" href="/_next/static/chunks/webpack-47d7d44e44865af625fb.js" as="script"/><link rel="preload" href="/_next/static/chunks/framework-690ec791c307d38a86d1.js" as="script"/><link rel="preload" href="/_next/static/chunks/597-18fbe31f7b38a0d61bf5.js" as="script"/><link rel="preload" href="/_next/static/chunks/778-4d6a28a8769244d31b1e.js" as="script"/><link rel="preload" href="/_next/static/chunks/main-9ca82ec4d4aca520c43d.js" as="script"/><link rel="preload" href="/_next/static/chunks/pages/_app-2ebae39101e751524bcc.js" as="script"/><link rel="preload" href="/_next/static/chunks/29107295-f332e28301661baf2b9d.js" as="script"/><link rel="preload" href="/_next/static/chunks/680-3019c907012d122a0110.js" as="script"/><link rel="preload" href="/_next/static/chunks/962-61643f9dba5bb641dd7a.js" as="script"/><link rel="preload" href="/_next/static/chunks/522-59915542e28638f8a552.js" as="script"/><link rel="preload" href="/_next/static/chunks/786-e1518b15c9a9338644ef.js" as="script"/><link rel="preload" href="/_next/static/chunks/362-b8d5f65b0dded14a971e.js" as="script"/><link rel="preload" href="/_next/static/chunks/pages/%5Bcategory%5D/%5B...uri%5D-b15727355a1600d50a56.js" as="script"/></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N93FVBM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="__next"><div class="min-h-screen flex flex-col"><header class="sticky top-0 z-50"><div class="relative"><div class="shadow-big md:mb-16 bg-white"><div class="px-6 lg:px-4 lg:container mx-auto"><div class="h-16 lg:h-24 flex items-center justify-between"><div class=""><a class="" href="/"><img class="h-12 lg:h-16" src="/logo/logo-gdt.svg" alt="logo"/></a></div><div class="flex items-center"><ul class="hidden md:flex md:space-x-6 lg:space-x-12"><li><a data-id="a" class="h-6 block font-bold  text-t1" href="/">Home</a></li><li><a data-id="b" class="h-6 block font-bold  text-t1" href="/cerita-kami/">Cerita Kami</a></li><li><div class="styles_dropdown__oqJRK"><a data-id="e" class="h-6 block font-bold  text-t1" href="/tentang-kami/">Tentang Kami</a><div data-id="zz" class="styles_dropdown-content__1QCh_"><div class="flex py-6 bg-t2 items-start rounded-lg"><ul class="space-y-4 px-8"><li><a class="text-white font-bold hover:text-brand  whitespace-nowrap" href="/tentang-kami/faq/"><div>FAQ</div></a></li><li><a class="text-white font-bold hover:text-brand  whitespace-nowrap" href="/tentang-kami/contact-us/"><div>Contact Us</div></a></li><li data-text="abc"></li></ul><div class="styles_left-triangle__1t9Jo"></div></div></div></div></li><li><div class="styles_dropdown__oqJRK"><a data-id="e" class="h-6 block font-bold text-t1" href="/[category]/[...uri]#">Produk Kami</a><div data-id="zz" class="styles_dropdown-content__1QCh_ right-0"><div class="flex py-6 bg-t2 items-start rounded-lg"><ul class="space-y-4 px-8"><li><a class="text-white font-bold hover:text-brand  whitespace-nowrap" href="/produk-kami/grabhealth/#section1"><div>GrabHealth</div></a></li><li><a class="text-white font-bold hover:text-brand  whitespace-nowrap" href="/produk-kami/gooddoctor/#section1"><div>GoodDoctor</div></a></li><li><a class="text-white font-bold hover:text-brand whitespace-normal" href="/produk-kami/employee-healthcare/"><div>Employee Healthcare</div></a></li><li data-text="abc"></li></ul><div class="styles_right-triangle__3v1mh"></div></div></div></div></li></ul><div class="md:ml-6 lg:ml-12"><a class="hover:text-t2"><svg width="26" height="25" viewBox="0 0 26 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24.8125 23.2109L17.5234 15.875C18.9766 14.1406 19.7031 12.1406 19.7031 9.875C19.7031 8.17188 19.2812 6.60156 18.4375 5.16406C17.6094 3.72656 16.4688 2.59375 15.0156 1.76562C13.5781 0.921875 12.0078 0.5 10.3047 0.5C8.61719 0.5 7.05469 0.921875 5.61719 1.76562C4.17969 2.59375 3.03906 3.72656 2.19531 5.16406C1.36719 6.60156 0.953125 8.17188 0.953125 9.875C0.953125 11.5781 1.36719 13.1484 2.19531 14.5859C3.03906 16.0234 4.17969 17.1641 5.61719 18.0078C7.05469 18.8359 8.625 19.25 10.3281 19.25C12.6562 19.25 14.7031 18.4844 16.4688 16.9531L23.7344 24.2656C23.8906 24.4219 24.0703 24.5 24.2734 24.5C24.4766 24.5 24.6484 24.4219 24.7891 24.2656C24.9453 24.125 25.0234 23.9453 25.0234 23.7266C25.0234 23.5234 24.9531 23.3516 24.8125 23.2109ZM10.3281 17.7734C8.89062 17.7734 7.5625 17.4219 6.34375 16.7188C5.14062 16 4.1875 15.0391 3.48438 13.8359C2.78125 12.6172 2.42969 11.2969 2.42969 9.875C2.42969 8.45312 2.78125 7.14062 3.48438 5.9375C4.1875 4.71875 5.14062 3.75781 6.34375 3.05469C7.5625 2.33594 8.88281 1.97656 10.3047 1.97656C11.7422 1.97656 13.0625 2.33594 14.2656 3.05469C15.4844 3.75781 16.4453 4.71875 17.1484 5.9375C17.8516 7.14062 18.2031 8.45312 18.2031 9.875C18.2031 10.4844 18.1328 11.0859 17.9922 11.6797C17.8516 12.2734 17.6484 12.8281 17.3828 13.3438C17.1328 13.8594 16.8281 14.3516 16.4688 14.8203C16.1094 15.2734 15.7031 15.6797 15.25 16.0391C14.7969 16.3984 14.3125 16.7109 13.7969 16.9766C13.2812 17.2266 12.7266 17.4219 12.1328 17.5625C11.5391 17.7031 10.9375 17.7734 10.3281 17.7734Z" fill="currentColor"></path></svg></a></div><div class="ml-6 md:hidden"><a class="hover:text-brand"><svg width="24" height="19" viewBox="0 0 24 19" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.632812 2.04688C0.570312 1.98438 0.515625 1.91406 0.46875 1.83594C0.421875 1.75781 0.390625 1.67969 0.375 1.60156C0.359375 1.50781 0.351562 1.40625 0.351562 1.29688C0.351562 1 0.445312 0.757812 0.632812 0.570312C0.820312 0.382812 1.0625 0.289062 1.35938 0.289062H22.7578C23.0547 0.289062 23.2969 0.382812 23.4844 0.570312C23.6719 0.757812 23.7656 1 23.7656 1.29688C23.7656 1.59375 23.6719 1.84375 23.4844 2.04688C23.2969 2.23438 23.0547 2.32812 22.7578 2.32812H1.35938C1.0625 2.32812 0.820312 2.23438 0.632812 2.04688ZM22.7578 8.44531C23.0547 8.44531 23.2969 8.53906 23.4844 8.72656C23.6719 8.91406 23.7656 9.15625 23.7656 9.45312C23.7656 9.75 23.6719 9.99219 23.4844 10.1797C23.2969 10.3672 23.0547 10.4609 22.7578 10.4609H1.35938C1.0625 10.4609 0.820312 10.3672 0.632812 10.1797C0.601562 10.1484 0.570312 10.1094 0.539062 10.0625C0.507812 10.0156 0.476562 9.96875 0.445312 9.92188C0.429688 9.875 0.414062 9.82812 0.398438 9.78125C0.382812 9.73438 0.367188 9.6875 0.351562 9.64062C0.351562 9.57812 0.351562 9.51562 0.351562 9.45312C0.351562 9.15625 0.445312 8.91406 0.632812 8.72656C0.820312 8.53906 1.0625 8.44531 1.35938 8.44531H22.7578ZM23.4844 16.8594C23.6719 17.0469 23.7656 17.2891 23.7656 17.5859C23.7656 17.8828 23.6719 18.1328 23.4844 18.3359C23.2969 18.5234 23.0547 18.6172 22.7578 18.6172H1.35938C1.0625 18.6172 0.820312 18.5234 0.632812 18.3359C0.601562 18.3047 0.570312 18.2734 0.539062 18.2422C0.523438 18.1953 0.5 18.1562 0.46875 18.125C0.453125 18.0781 0.4375 18.0391 0.421875 18.0078C0.40625 17.9609 0.390625 17.9141 0.375 17.8672C0.359375 17.8203 0.351562 17.7812 0.351562 17.75C0.351562 17.7031 0.351562 17.6484 0.351562 17.5859C0.351562 17.2891 0.445312 17.0469 0.632812 16.8594C0.820312 16.6719 1.0625 16.5781 1.35938 16.5781H22.7578C23.0391 16.5781 23.2812 16.6719 23.4844 16.8594Z" fill="currentColor"></path></svg></a></div></div></div></div></div><div class="hidden md:block absolute bg-c2 shadow-big -bottom-16 inset-x-0 z-negative"><div class="px-4 lg:px-7 lg:container mx-auto"><ul class="h-16 flex justify-between items-center"></ul></div></div></div></header><main class="flex-1"><div class="mt-9 md:mt-11 px-3 xl:px-10 container mx-auto"><article><div class="my-2 md:my-4"><div class="text-lg font-semibold md:text-3xl text-logoColor ">Info Sehat</div><h1 class="text-lg my-2 md:my-4 font-bold md:text-3xl lg:text-3xl  text-gray-700">9 Obat Asam Urat Alami yang Bisa Ditemukan di Dapur, Nomor 7 Paling Mudah!</h1><div class="text-base text-author font-semibold md:text-1xl ">July 9, 2020 ｜ Putri Prima Soraya ｜ dr. Debby Deriyanthi</div></div><div class="lg:hidden"></div><div class="my-2 md:my-4"><div class="relative h-222 md:h-400"><div style="display:block;overflow:hidden;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;margin:0"><noscript><img alt="feature image" srcSet="/_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2020%2F06%2Fobat-asam-urat-alami.jpg&amp;w=320&amp;q=75 320w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2020%2F06%2Fobat-asam-urat-alami.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2020%2F06%2Fobat-asam-urat-alami.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2020%2F06%2Fobat-asam-urat-alami.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2020%2F06%2Fobat-asam-urat-alami.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2020%2F06%2Fobat-asam-urat-alami.jpg&amp;w=1200&amp;q=75 1200w" src="https://cms.gooddoctor.co.id/wp-content/uploads/2020/06/obat-asam-urat-alami.jpg" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></noscript><img alt="feature image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></div></div></div><div class="lg:flex"><div class="hidden lg:block lg:mt-5"></div><div class="w-full lg:w-2/3 overflow-hidden"><div class="mx-auto"><div class="mx-auto prose prose-xl">
-<p>Mengalami asam urat bisa sangat menyiksa, dan mengganggu mobilitas kita. Ketika asam urat mendera, selain mengatasinya dengan obat dokter, ada beberapa obat asam urat alami yang bisa kamu gunakan loh.</p>
 
-
-
-<p>Obat alami ini berasal dari tumbuhan, buah-buahan, dan juga bahan masakan yang umum kamu gunakan. Untuk lebih jelasnya, apa saja obat alami yang bisa digunakan untuk mengatasi asam urat, mari simak artikel ini hingga akhir, ya!</p>
-
-
-
-<p>Baca Juga: <a href="https://www.gooddoctor.co.id/tips-kesehatan/penyakit/tahi-lalat-tanda-kanker-ini-ciri-ciri-yang-patut-diwaspadai/">Tahi Lalat Berbentuk Tidak Normal? Waspadai Pertanda Kanker</a></p>
-
-
-
-<h2>Apa itu asam urat</h2>
-
-
-
-<p>Asam urat terjadi ketika ada tumpukan limbah akibat gagalnya proses penguraian zat purin. Pada akhirnya membentuk kristal asam urat berukuran mikro yang menumpuk di ginjal dan peradangan pada persendian yang menimbulkan nyeri.</p>
-
-
-
-<p>Ini umum terjadi pada bagian jempol kaki, tetapi juga dapat memengaruhi pergelangan kaki, lutut, tangan, dan pergelangan tangan. Sendi yang terkena akan menjadi bengkak, merah, lunak saat disentuh dan hangat. Biasanya asam urat ini akan berlangsung sampai sepuluh hari.</p>
-
-
-
-<p>Ketika kamu terkena atau memiliki <a href="https://www.gooddoctor.co.id/tips-kesehatan/kesehatan/makanan-pantangan-asam-urat-yang-harus-dihindari/" target="_blank" rel="noreferrer noopener">asam urat</a>, ada beberapa makanan yang harus kamu hindari, seperti:</p>
-
-
-
-<ul><li>Kerang</li><li>Daging merah</li><li>Jeroan</li><li>Minuman manis</li><li>Alkohol</li><li>Makanan yang tinggi kandungan ragi</li></ul>
-
-
-
-<p>Makanan-makanan tersebut mengandung kadar purin yang tinggi.</p>
-
-
-
-<h2>Obat asam urat alami</h2>
-
-
-
-<p>Asam urat bisa disembuhkan dengan obat-obatan dari dokter, tapi tidak ada salahnya kamu mencoba beberapa obat asam urat alami yang lebih aman dari efek samping bahan kimia. Obat alami ini juga mudah kamu buat sendiri di rumah, seperti:&nbsp;</p>
-
-
-
-<h3>1. Buah ceri</h3>
-
-
-
-<p>Menurut sebuah <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4974079/">survei</a> yang dilakukan pada 2016, ceri baik itu asam, manis, merah, hitam, dalam bentuk ekstrak, sebagai jus, atau mentah adalah obat asam urat rumahan yang efektif pada banyak orang.</p>
-
-
-
-<p>Sebuah <a href="https://www.semanticscholar.org/paper/Pilot-Studies-of-Cherry-Juice-Concentrate-for-Gout-Schlesinger/556d46fee537de00eae5afd2d428725bc30e1bea?p2df">penelitian</a> lainnya pada 2012 juga menemukan bahwa ceri dapat bekerja untuk mencegah serangan asam urat</p>
-
-
-
-<p>Penelitian ini juga merekomendasikan kamu untuk mengonsumsi tiga porsi ceri selama dua hari untuk hasil yang efektif.&nbsp;</p>
-
-
-
-<h2>2. Jahe </h2>
-
-
-
-<p>Jahe sangat efektif untuk mengobati berbagai jenis peradangan. Satu <a href="https://www.ijstr.org/final-print/oct2017/Effect-Of-Red-Ginger-Compress-To-Decrease-Scale-Of-Pain-Gout-Arthiris-Patients.pdf">studi </a>menemukan jahe topikal mengurangi rasa sakit yang terkait dengan asam urat.</p>
-
-
-
-<p>Untuk menggunakan jahe dalam mengobati asam urat, caranya dengan membuat kompres air jahe. Pertama kamu harus memarut jahe yang segar, lalu campurkan dengan air panas. Setelah itu, rendam handuk ke dalam air jahe tadi, tunggu hingga air berubah menjadi dingin.&nbsp;</p>
-
-
-
-<p>Saat sudah tidak terlalu panas, kompres bagian yang sakit selama kurang lebih 15 sampai 30 menit. Lakukanlah sehari sekali. Atau cara lainnya adalah dengan membuat teh jahe dengan mencampurkan air hangat dan 2 sendok teh jahe, yang bisa kamu nikmati 3 gelas sehari.</p>
-
-
-
-<h3>3. Minyak esensial</h3>
-
-
-
-<p>Beberapa minyak esensial memiliki sifat antiinflamasi dan dapat menghilangkan rasa sakit dari peradangan. Ada beberapa minyak esensial yang bisa kamu gunakan untuk mengobati asam urat, seperti serai, kayu putih, kemenyan dan jahe dianggap membantu.</p>
-
-
-
-<p>Tapi, jangan menggunakan minyak esensial ini secara langsung pada bagian yang sakit, kamu harus mencampurkannya dengan air.</p>
-
-
-
-<h3>4. Air hangat dengan cuka sari apel, jus lemon, dan kunyit</h3>
-
-
-
-<p>Ramuan satu ini telah dipercaya selama bertahun-tahun bisa mengurangi sakit asam urat. Biasanya, orang-orang membuatnya menjadi jus. Caranya, campurkan perasan lemon ke dalam air hangat, tambahkan dengan 2 sendok teh kunyit dan 1 sendok teh cuka sari apel. </p>
-
-
-
-<p>Kamu bisa menyesuaikannya sesuai selera. Minumlah dua hingga tiga kali sehari.&nbsp;</p>
-
-
-
-<h3>5. Teh jelatang</h3>
-
-
-
-<p>Teh jelatang (Urtica dioica) adalah obat herbal untuk asam urat yang dapat mengurangi peradangan dan rasa sakit.</p>
-
-
-
-<p>Untuk mencoba teh ini, sebagai obat asam urat alami, kamu cukup merebus 1 hingga 2 sendok teh jelatang kering dengan air dan minumlah 3 gelas per hari.&nbsp;&nbsp;</p>
-
-
-
-<h3>6. Bunga dandelion</h3>
-
-
-
-<p>Dandelion baik dalam bentuk teh, ekstrak, dan suplemen bermanfaat untuk meningkatkan kesehatan hati dan <a href="https://www.gooddoctor.co.id/tips-kesehatan/kesehatan/info-sehat/fungsi-ginjal/">ginjal</a>.</p>
-
-
-
-<p>Sebuah <a href="https://www.speronline.com/japer/Articlefile/92.pdf">penelitian</a> pada 2013 menunjukkan, dandelion menurunkan kadar asam urat pada mereka yang berisiko mengalami cedera ginjal. Tapi penelitian lebih lanjut masih perlu dilakukan.&nbsp;</p>
-
-
-
-<h3>7. Air mineral </h3>
-
-
-
-<p>Ketika badan kamu kekurangan air, kadar asam urat dalam tubuh akan otomatis naik lebih tinggi lagi. Untuk itu, penting menjaga tubuh tetap terhidrasi agar menjaga asam urat tetap normal.</p>
-
-
-
-<p>Baca Juga: <a href="https://www.gooddoctor.co.id/tips-kesehatan/kehamilan/momsyuk-intip-perkembangan-janin-8-bulan-dalam-kandungan/">Moms,Yuk Intip Perkembangan Janin 8 Bulan Dalam Kandungan</a></p>
-
-
-
-<h3>8. Kembang sepatu</h3>
-
-
-
-<p>Kembang sepatu adalah salah satu tanaman yang telah lama dijadikan obat tradisional untuk mengobati asam urat.</p>
-
-
-
-<p>Sebuah <a href="https://www.sciencedirect.com/science/article/pii/S1756464612000084">studi</a> menunjukkan bahwa kembang sepatu dapat menurunkan kadar asam urat.</p>
-
-
-
-<p>Baca Juga: <a href="https://www.gooddoctor.co.id/tips-kesehatan/puasa/sumber-vitamin-c-untuk-sahur-dan-buka-puasa/">Wajib Dicatat! Ini Makanan Sumber Vitamin C Baik untuk Puasa</a></p>
-
-
-
-<h3>9. Buah berry</h3>
-
-
-
-<p>Buah berry terutama yang kulitnya berwarna gelap kaya anthocyanin, senyawa antioksidan kuat. </p>
-
-
-
-<p>Anthocyanin dapat membenahi kerusakan yang diakibatkan radikal bebas dalam sel, termasuk sel-sel ginjal yang rusak. Pada saat yang sama, anthocyanin juga bertindak sebagai antiinflamasi yang kuat yang mampu meredakan rasa sakit dan pembengkakan sendi.</p>
-
-
-
-<p>Selain dengan beberapa obat alami di atas, untuk mengobati dan mengurangi risiko asam urat, cobalah untuk mengubah gaya hidup menjadi lebih sehat. Rutin berolahraga dan istirahat yang cukup untuk menghindari gejala yang memburuk.</p>
-
-
-
-<p><strong>Jaga kesehatan Anda dan keluarga dengan konsultasi rutin bersama mitra dokter kami. Download aplikasi Good Doctor sekarang, klik <a href="https://ulink.gooddoctor.co.id/plugin-share/?scheme=global_show_tab_home?content={&quot;utm&quot;:&quot;website_content_mvp_launch&quot;}">link ini</a>, ya!</strong></p>
-</div></div><div class="mx-auto"><div class="flex text-lg leading-relaxed mt-3 px-3 items-center"><hr class="w-1/12 border-b-2 mr-3"/><p class="w-11/12 text-lg font-bold"><a href="/tag/asam-urat/"><span class="inline-block leading-12 mr-4 font-normal text-logoColor capitalize">#<!-- -->asam urat</span></a><a href="/tag/obat-asam-urat/"><span class="inline-block leading-12 mr-4 font-normal text-logoColor capitalize">#<!-- -->obat asam urat</span></a><a href="/tag/obat-asam-urat-alami/"><span class="inline-block leading-12 mr-4 font-normal text-logoColor capitalize">#<!-- -->obat asam urat alami</span></a></p></div></div><div class="text-lg leading-relaxed mt-3 px-3"><div class="w-full mx-auto"><div><div class="styles_panel__1_zF8"><div class="styles_header__nwtZ-"><svg width="20" aria-hidden="true" focusable="false" class="styles_fas__3V13o w-5 inline-block" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg><span>Reference</span></div><div class="styles_body__3_F0l"><div class="styles_reference__3vQFW"><p>Healthline (2019). Diakses pada 20/06/20. <a href="https://www.healthline.com/health/gout/home-remedies#home-treatments">Natural Home Remedies for Gout</a></p>
-<p>Mayo Clinic (2019). Diakses pada 20/06/20. <a href="https://www.mayoclinic.org/diseases-conditions/gout/symptoms-causes/syc-20372897">Gout</a></p>
-<p>Holland &amp; Barrett (2020). Diakses pada 20/06/20.<a href="https://www.hollandandbarrett.com/the-health-hub/conditions/gout/natural-treatments-for-gout/"> Natural treatments for gout</a></p>
-<p>Web MD (2019). Diakses pada 20/06/20. <a href="https://www.webmd.com/arthritis/gout-attacks-at-home">How to Treat Gout Attacks at Home</a></p>
-<p>The Gout Killer (n.d). Diakses pada 20/06/20. <a href="https://www.thegoutkiller.com/gout-diet/berries-and-gout/">Berries and Gout</a></p>
+<!DOCTYPE html>
+<html lang="id">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" itemscope itemtype="http://schema.org/WebSite">
+<title itemprop="name">Obat Asam Urat Tradisional dan Pantangannya - GueSehat</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimal-ui"/>
+<meta http-equiv="X-UA-Compatible" content="ie=edge, chrome=1">
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="imagetoolbar" content="no"/>
+<meta name="title" content="Obat Asam Urat Tradisional dan Pantangannya - GueSehat">
+<meta name="description" content="Nyeri yang muncul di persendian bisa saja lho diakibatkan oleh penyakit asam urat. Lalu, apakah ada obat asam urat tradisional yang efektif meredakan nyeri?"/>
+<meta name="keywords" content="Asam Urat,Asam Urat (Arthritis Gout),Nyeri sendi"/>
+<meta http-equiv="copyright" content="www.guesehat.com"/>
+<meta name="publisher" content="www.guesehat.com"/>
+<meta name="author" content="www.guesehat.com"/>
+<meta name="language" content="Indonesia"/>
+<meta http-equiv="content-language" content="id">
+<meta name="robots" content="index, follow"/>
+<meta property="fb:pages" content="860904077368348"/>
+<link rel="canonical" href="https://www.guesehat.com/obat-asam-urat-tradisional-dan-pantangannya" itemprop="url"><link rel="amphtml" href="https://www.guesehat.com/amp/obat-asam-urat-tradisional-dan-pantangannya">
+<link rel="alternate" href="https://www.guesehat.com/" hreflang="x-default"/>
+<meta name="google-site-verification" content="T-R-G0aUDZWE3HcI5gYEvfm2LZmkCd-AF9r94Ev2j0M"/>
+<meta name="google-site-verification" content="6ILgjH2m5c8emE66pjdExmgep47BAdKTrCJ7SpbMepQ"/>
+<meta name="smartbanner:title" content="GueSehat - Serunya Sehat Bareng-bareng">
+<meta name="smartbanner:author" content="PT. Global Urban Esensial">
+<meta name="smartbanner:price" content="FREE">
+<meta name="smartbanner:price-suffix-apple" content=" - On the App Store">
+<meta name="smartbanner:price-suffix-google" content=" - In Google Play">
+<meta name="smartbanner:icon-apple" content="https://static.guesehat.com/static/static/web/img/logo_apps_white.png">
+<meta name="smartbanner:icon-google" content="https://static.guesehat.com/static/static/web/img/logo_apps_white.png">
+<meta name="smartbanner:button" content="View">
+<meta name="smartbanner:hide-ttl" content="60000">
+<meta name="smartbanner:button-url-apple" content="https://itunes.apple.com/app/id1266152551">
+<meta name="smartbanner:button-url-google" content="https://play.google.com/store/apps/details?id=com.guesehat.android">
+<meta name="smartbanner:enabled-platforms" content="android,ios">
+<meta property="fb:admins" content="1813571056"/>
+<meta property="fb:app_id" content="875389782609283"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="https://static.guesehat.com/static/article/pantangan_makanan_pengobatan_asam_urat_alami_paling_ampuh_1563165233.jpg"/>
+<meta property="og:title" content="Mau Tahu Obat Asam Urat Tradisional dan Pantangannya?"/>
+<meta property="og:site_name" content="www.guesehat.com"/>
+<meta property="og:description" content="Nyeri yang muncul di persendian bisa saja lho diakibatkan oleh penyakit asam urat. Lalu, apakah ada obat asam urat tradisional yang efektif meredakan nyeri?"/>
+<meta property="og:url" content="https://www.guesehat.com/obat-asam-urat-tradisional-dan-pantangannya"/>
+<meta property="og:image:width" content="600"/>
+<meta property="og:image:height" content="315"/>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="www.guesehat.com">
+<meta name="twitter:creator" content="www.guesehat.com">
+<meta name="twitter:title" content="Mau Tahu Obat Asam Urat Tradisional dan Pantangannya?">
+<meta name="twitter:description" content="Nyeri yang muncul di persendian bisa saja lho diakibatkan oleh penyakit asam urat. Lalu, apakah ada obat asam urat tradisional yang efektif meredakan nyeri?">
+<meta name="twitter:image" content="https://static.guesehat.com/static/article/pantangan_makanan_pengobatan_asam_urat_alami_paling_ampuh_1563165233.jpg">
+<meta name="twitter:url" content="https://www.guesehat.com/obat-asam-urat-tradisional-dan-pantangannya">
+<meta name="twitter:image:width" content="600">
+<meta name="twitter:image:height" content="315">
+<link rel="dns-prefetch" href="//www.goapotik.com"/>
+<link rel="dns-prefetch" href="//cdn.moengage.com"/>
+<link rel="dns-prefetch" href="//websdk.moengage.com"/>
+<link rel="dns-prefetch" href="//fonts.googleapis.com"/>
+<link rel="dns-prefetch" href="//apis.google.com"/>
+<link rel="dns-prefetch" href="//accounts.google.com"/>
+<link rel="dns-prefetch" href="//content.googleapis.com"/>
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net"/>
+<link rel="dns-prefetch" href="//www.facebook.com"/>
+<link rel="dns-prefetch" href="//connect.facebook.net"/>
+<link rel="dns-prefetch" href="//staticxx.facebook.com"/>
+<link rel="dns-prefetch" href="//platform.twitter.com"/>
+<link rel="dns-prefetch" href="//www.google-analytics.com"/>
+<link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+<link rel="image_src" href="https://static.guesehat.com/static/article/pantangan_makanan_pengobatan_asam_urat_alami_paling_ampuh_1563165233.jpg"/>
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="application-name" content="Guesehat">
+<meta name="theme-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Guesehat">
+<meta name="apple-mobile-web-app-status-bar-style" content="#00b3e3">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://static.guesehat.com/static/static/web/ms-icon-144x144.png">
+<meta name="msapplication-navbutton-color" content="#ffffff">
+<link rel="apple-touch-icon" sizes="57x57" href="https://static.guesehat.com/static/static/web/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://static.guesehat.com/static/static/web/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://static.guesehat.com/static/static/web/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://static.guesehat.com/static/static/web/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://static.guesehat.com/static/static/web/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://static.guesehat.com/static/static/web/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://static.guesehat.com/static/static/web/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://static.guesehat.com/static/static/web/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://static.guesehat.com/static/static/web/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://static.guesehat.com/static/static/web/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://static.guesehat.com/static/static/web/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://static.guesehat.com/static/static/web/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://static.guesehat.com/static/static/web/favicon-16x16.png">
+<script type="text/javascript">if((self.parent&&!(self.parent===self))&&(self.parent.frames.length!=0)){self.parent.location=document.location;}</script>
+<style type="text/stylesheet">@-webkit-viewport   { width: device-width; }@-moz-viewport      { width: device-width; }@-ms-viewport       { width: device-width; }@-o-viewport        { width: device-width; }@viewport           { width: device-width; }</style>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N8PFZ6L');</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-8955890579377682",enable_page_level_ads:true});</script>
+<style>.pace{background:#fff;width:100%;height:100%;position:fixed;z-index:9;-webkit-pointer-events:none;pointer-events:none;-webkit-user-select:none;-moz-user-select:none;user-select:none}.pace-inactive{display:none}.pace .pace-progress{background:#00b3e3;position:fixed;z-index:2000;top:60px;right:100%;width:100%;height:2px}</style>
+<script>paceOptions={ajax:false,restartOnRequestAfter:false,eventLag:false,restartOnPushState:false}</script>
+<script type="text/javascript">(function(){var a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X=[].slice,Y={}.hasOwnProperty,Z=function(a,b){function c(){this.constructor=a}for(var d in b)Y.call(b,d)&&(a[d]=b[d]);return c.prototype=b.prototype,a.prototype=new c,a.__super__=b.prototype,a},$=[].indexOf||function(a){for(var b=0,c=this.length;c>b;b++)if(b in this&&this[b]===a)return b;return-1};for(u={catchupTime:100,initialRate:.03,minTime:250,ghostTime:100,maxProgressPerFrame:20,easeFactor:1.25,startOnPageLoad:!0,restartOnPushState:!0,restartOnRequestAfter:500,target:"body",elements:{checkInterval:100,selectors:["body"]},eventLag:{minSamples:10,sampleCount:3,lagThreshold:3},ajax:{trackMethods:["GET"],trackWebSockets:!0,ignoreURLs:[]}},C=function(){var a;return null!=(a="undefined"!=typeof performance&&null!==performance&&"function"==typeof performance.now?performance.now():void 0)?a:+new Date},E=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.msRequestAnimationFrame,t=window.cancelAnimationFrame||window.mozCancelAnimationFrame,null==E&&(E=function(a){return setTimeout(a,50)},t=function(a){return clearTimeout(a)}),G=function(a){var b,c;return b=C(),(c=function(){var d;return d=C()-b,d>=33?(b=C(),a(d,function(){return E(c)})):setTimeout(c,33-d)})()},F=function(){var a,b,c;return c=arguments[0],b=arguments[1],a=3<=arguments.length?X.call(arguments,2):[],"function"==typeof c[b]?c[b].apply(c,a):c[b]},v=function(){var a,b,c,d,e,f,g;for(b=arguments[0],d=2<=arguments.length?X.call(arguments,1):[],f=0,g=d.length;g>f;f++)if(c=d[f])for(a in c)Y.call(c,a)&&(e=c[a],null!=b[a]&&"object"==typeof b[a]&&null!=e&&"object"==typeof e?v(b[a],e):b[a]=e);return b},q=function(a){var b,c,d,e,f;for(c=b=0,e=0,f=a.length;f>e;e++)d=a[e],c+=Math.abs(d),b++;return c/b},x=function(a,b){var c,d,e;if(null==a&&(a="options"),null==b&&(b=!0),e=document.querySelector("[data-pace-"+a+"]")){if(c=e.getAttribute("data-pace-"+a),!b)return c;try{return JSON.parse(c)}catch(f){return d=f,"undefined"!=typeof console&&null!==console?console.error("Error parsing inline pace options",d):void 0}}},g=function(){function a(){}return a.prototype.on=function(a,b,c,d){var e;return null==d&&(d=!1),null==this.bindings&&(this.bindings={}),null==(e=this.bindings)[a]&&(e[a]=[]),this.bindings[a].push({handler:b,ctx:c,once:d})},a.prototype.once=function(a,b,c){return this.on(a,b,c,!0)},a.prototype.off=function(a,b){var c,d,e;if(null!=(null!=(d=this.bindings)?d[a]:void 0)){if(null==b)return delete this.bindings[a];for(c=0,e=[];c<this.bindings[a].length;)e.push(this.bindings[a][c].handler===b?this.bindings[a].splice(c,1):c++);return e}},a.prototype.trigger=function(){var a,b,c,d,e,f,g,h,i;if(c=arguments[0],a=2<=arguments.length?X.call(arguments,1):[],null!=(g=this.bindings)?g[c]:void 0){for(e=0,i=[];e<this.bindings[c].length;)h=this.bindings[c][e],d=h.handler,b=h.ctx,f=h.once,d.apply(null!=b?b:this,a),i.push(f?this.bindings[c].splice(e,1):e++);return i}},a}(),j=window.Pace||{},window.Pace=j,v(j,g.prototype),D=j.options=v({},u,window.paceOptions,x()),U=["ajax","document","eventLag","elements"],Q=0,S=U.length;S>Q;Q++)K=U[Q],D[K]===!0&&(D[K]=u[K]);i=function(a){function b(){return V=b.__super__.constructor.apply(this,arguments)}return Z(b,a),b}(Error),b=function(){function a(){this.progress=0}return a.prototype.getElement=function(){var a;if(null==this.el){if(a=document.querySelector(D.target),!a)throw new i;this.el=document.createElement("div"),this.el.className="pace pace-active",document.body.className=document.body.className.replace(/pace-done/g,""),document.body.className+=" pace-running",this.el.innerHTML='<div class="pace-progress">\n  <div class="pace-progress-inner"></div>\n</div>\n<div class="pace-activity"></div>',null!=a.firstChild?a.insertBefore(this.el,a.firstChild):a.appendChild(this.el)}return this.el},a.prototype.finish=function(){var a;return a=this.getElement(),a.className=a.className.replace("pace-active",""),a.className+=" pace-inactive",document.body.className=document.body.className.replace("pace-running",""),document.body.className+=" pace-done"},a.prototype.update=function(a){return this.progress=a,this.render()},a.prototype.destroy=function(){try{this.getElement().parentNode.removeChild(this.getElement())}catch(a){i=a}return this.el=void 0},a.prototype.render=function(){var a,b,c,d,e,f,g;if(null==document.querySelector(D.target))return!1;for(a=this.getElement(),d="translate3d("+this.progress+"%, 0, 0)",g=["webkitTransform","msTransform","transform"],e=0,f=g.length;f>e;e++)b=g[e],a.children[0].style[b]=d;return(!this.lastRenderedProgress||this.lastRenderedProgress|0!==this.progress|0)&&(a.children[0].setAttribute("data-progress-text",""+(0|this.progress)+"%"),this.progress>=100?c="99":(c=this.progress<10?"0":"",c+=0|this.progress),a.children[0].setAttribute("data-progress",""+c)),this.lastRenderedProgress=this.progress},a.prototype.done=function(){return this.progress>=100},a}(),h=function(){function a(){this.bindings={}}return a.prototype.trigger=function(a,b){var c,d,e,f,g;if(null!=this.bindings[a]){for(f=this.bindings[a],g=[],d=0,e=f.length;e>d;d++)c=f[d],g.push(c.call(this,b));return g}},a.prototype.on=function(a,b){var c;return null==(c=this.bindings)[a]&&(c[a]=[]),this.bindings[a].push(b)},a}(),P=window.XMLHttpRequest,O=window.XDomainRequest,N=window.WebSocket,w=function(a,b){var c,d,e,f;f=[];for(d in b.prototype)try{e=b.prototype[d],f.push(null==a[d]&&"function"!=typeof e?a[d]=e:void 0)}catch(g){c=g}return f},A=[],j.ignore=function(){var a,b,c;return b=arguments[0],a=2<=arguments.length?X.call(arguments,1):[],A.unshift("ignore"),c=b.apply(null,a),A.shift(),c},j.track=function(){var a,b,c;return b=arguments[0],a=2<=arguments.length?X.call(arguments,1):[],A.unshift("track"),c=b.apply(null,a),A.shift(),c},J=function(a){var b;if(null==a&&(a="GET"),"track"===A[0])return"force";if(!A.length&&D.ajax){if("socket"===a&&D.ajax.trackWebSockets)return!0;if(b=a.toUpperCase(),$.call(D.ajax.trackMethods,b)>=0)return!0}return!1},k=function(a){function b(){var a,c=this;b.__super__.constructor.apply(this,arguments),a=function(a){var b;return b=a.open,a.open=function(d,e){return J(d)&&c.trigger("request",{type:d,url:e,request:a}),b.apply(a,arguments)}},window.XMLHttpRequest=function(b){var c;return c=new P(b),a(c),c};try{w(window.XMLHttpRequest,P)}catch(d){}if(null!=O){window.XDomainRequest=function(){var b;return b=new O,a(b),b};try{w(window.XDomainRequest,O)}catch(d){}}if(null!=N&&D.ajax.trackWebSockets){window.WebSocket=function(a,b){var d;return d=null!=b?new N(a,b):new N(a),J("socket")&&c.trigger("request",{type:"socket",url:a,protocols:b,request:d}),d};try{w(window.WebSocket,N)}catch(d){}}}return Z(b,a),b}(h),R=null,y=function(){return null==R&&(R=new k),R},I=function(a){var b,c,d,e;for(e=D.ajax.ignoreURLs,c=0,d=e.length;d>c;c++)if(b=e[c],"string"==typeof b){if(-1!==a.indexOf(b))return!0}else if(b.test(a))return!0;return!1},y().on("request",function(b){var c,d,e,f,g;return f=b.type,e=b.request,g=b.url,I(g)?void 0:j.running||D.restartOnRequestAfter===!1&&"force"!==J(f)?void 0:(d=arguments,c=D.restartOnRequestAfter||0,"boolean"==typeof c&&(c=0),setTimeout(function(){var b,c,g,h,i,k;if(b="socket"===f?e.readyState<2:0<(h=e.readyState)&&4>h){for(j.restart(),i=j.sources,k=[],c=0,g=i.length;g>c;c++){if(K=i[c],K instanceof a){K.watch.apply(K,d);break}k.push(void 0)}return k}},c))}),a=function(){function a(){var a=this;this.elements=[],y().on("request",function(){return a.watch.apply(a,arguments)})}return a.prototype.watch=function(a){var b,c,d,e;return d=a.type,b=a.request,e=a.url,I(e)?void 0:(c="socket"===d?new n(b):new o(b),this.elements.push(c))},a}(),o=function(){function a(a){var b,c,d,e,f,g,h=this;if(this.progress=0,null!=window.ProgressEvent)for(c=null,a.addEventListener("progress",function(a){return h.progress=a.lengthComputable?100*a.loaded/a.total:h.progress+(100-h.progress)/2},!1),g=["load","abort","timeout","error"],d=0,e=g.length;e>d;d++)b=g[d],a.addEventListener(b,function(){return h.progress=100},!1);else f=a.onreadystatechange,a.onreadystatechange=function(){var b;return 0===(b=a.readyState)||4===b?h.progress=100:3===a.readyState&&(h.progress=50),"function"==typeof f?f.apply(null,arguments):void 0}}return a}(),n=function(){function a(a){var b,c,d,e,f=this;for(this.progress=0,e=["error","open"],c=0,d=e.length;d>c;c++)b=e[c],a.addEventListener(b,function(){return f.progress=100},!1)}return a}(),d=function(){function a(a){var b,c,d,f;for(null==a&&(a={}),this.elements=[],null==a.selectors&&(a.selectors=[]),f=a.selectors,c=0,d=f.length;d>c;c++)b=f[c],this.elements.push(new e(b))}return a}(),e=function(){function a(a){this.selector=a,this.progress=0,this.check()}return a.prototype.check=function(){var a=this;return document.querySelector(this.selector)?this.done():setTimeout(function(){return a.check()},D.elements.checkInterval)},a.prototype.done=function(){return this.progress=100},a}(),c=function(){function a(){var a,b,c=this;this.progress=null!=(b=this.states[document.readyState])?b:100,a=document.onreadystatechange,document.onreadystatechange=function(){return null!=c.states[document.readyState]&&(c.progress=c.states[document.readyState]),"function"==typeof a?a.apply(null,arguments):void 0}}return a.prototype.states={loading:0,interactive:50,complete:100},a}(),f=function(){function a(){var a,b,c,d,e,f=this;this.progress=0,a=0,e=[],d=0,c=C(),b=setInterval(function(){var g;return g=C()-c-50,c=C(),e.push(g),e.length>D.eventLag.sampleCount&&e.shift(),a=q(e),++d>=D.eventLag.minSamples&&a<D.eventLag.lagThreshold?(f.progress=100,clearInterval(b)):f.progress=100*(3/(a+3))},50)}return a}(),m=function(){function a(a){this.source=a,this.last=this.sinceLastUpdate=0,this.rate=D.initialRate,this.catchup=0,this.progress=this.lastProgress=0,null!=this.source&&(this.progress=F(this.source,"progress"))}return a.prototype.tick=function(a,b){var c;return null==b&&(b=F(this.source,"progress")),b>=100&&(this.done=!0),b===this.last?this.sinceLastUpdate+=a:(this.sinceLastUpdate&&(this.rate=(b-this.last)/this.sinceLastUpdate),this.catchup=(b-this.progress)/D.catchupTime,this.sinceLastUpdate=0,this.last=b),b>this.progress&&(this.progress+=this.catchup*a),c=1-Math.pow(this.progress/100,D.easeFactor),this.progress+=c*this.rate*a,this.progress=Math.min(this.lastProgress+D.maxProgressPerFrame,this.progress),this.progress=Math.max(0,this.progress),this.progress=Math.min(100,this.progress),this.lastProgress=this.progress,this.progress},a}(),L=null,H=null,r=null,M=null,p=null,s=null,j.running=!1,z=function(){return D.restartOnPushState?j.restart():void 0},null!=window.history.pushState&&(T=window.history.pushState,window.history.pushState=function(){return z(),T.apply(window.history,arguments)}),null!=window.history.replaceState&&(W=window.history.replaceState,window.history.replaceState=function(){return z(),W.apply(window.history,arguments)}),l={ajax:a,elements:d,document:c,eventLag:f},(B=function(){var a,c,d,e,f,g,h,i;for(j.sources=L=[],g=["ajax","elements","document","eventLag"],c=0,e=g.length;e>c;c++)a=g[c],D[a]!==!1&&L.push(new l[a](D[a]));for(i=null!=(h=D.extraSources)?h:[],d=0,f=i.length;f>d;d++)K=i[d],L.push(new K(D));return j.bar=r=new b,H=[],M=new m})(),j.stop=function(){return j.trigger("stop"),j.running=!1,r.destroy(),s=!0,null!=p&&("function"==typeof t&&t(p),p=null),B()},j.restart=function(){return j.trigger("restart"),j.stop(),j.start()},j.go=function(){var a;return j.running=!0,r.render(),a=C(),s=!1,p=G(function(b,c){var d,e,f,g,h,i,k,l,n,o,p,q,t,u,v,w;for(l=100-r.progress,e=p=0,f=!0,i=q=0,u=L.length;u>q;i=++q)for(K=L[i],o=null!=H[i]?H[i]:H[i]=[],h=null!=(w=K.elements)?w:[K],k=t=0,v=h.length;v>t;k=++t)g=h[k],n=null!=o[k]?o[k]:o[k]=new m(g),f&=n.done,n.done||(e++,p+=n.tick(b));return d=p/e,r.update(M.tick(b,d)),r.done()||f||s?(r.update(100),j.trigger("done"),setTimeout(function(){return r.finish(),j.running=!1,j.trigger("hide")},Math.max(D.ghostTime,Math.max(D.minTime-(C()-a),0)))):c()})},j.start=function(a){v(D,a),j.running=!0;try{r.render()}catch(b){i=b}return document.querySelector(".pace")?(j.trigger("start"),j.go()):setTimeout(j.start,50)},"function"==typeof define&&define.amd?define(function(){return j}):"object"==typeof exports?module.exports=j:D.startOnPageLoad&&j.start()}).call(this);</script>
+<script type="text/javascript">var isCtrl=false;document.onkeyup=function(e){if(e.which==17){isCtrl=false;}}
+document.onkeydown=function(e){if(e.which==17){isCtrl=true;}if((e.which==85)&&isCtrl==true){return false;}else if(e.which===123){return false;}}
+var isNS=((navigator.appName=="Netscape")?1:0);if(navigator.appName=="Netscape")document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP);function mousehandler(e){var myevent=(isNS)?e:event;var eventbutton=(isNS)?myevent.which:myevent.button;if((eventbutton==2)||(eventbutton==3))return false;}document.onmousedown=mousehandler;document.onmouseup=mousehandler;</script>
+<style>.point-dropdown{background:#efefef;color:#ff5d2a}.point-dropdown .label-point{padding:0 5px;margin-left:5px;font-size:10px;background:#fff;vertical-align:middle;border:.1px solid #ff5d2a;border-radius:6px;color:#ff5d2a}.point-dropdown .number-point{float:right;color:#3c3c3c;font-weight:700;text-transform:lowercase}.point-dropdown.submenu-member-link:before{display:none}.member-point .dirdetail-side-block-title:before{display:none}.member-point span{float:right;text-transform:lowercase;color:#ff5d2a}.member-point div{text-align:center;font-size:12px;color:#fff;margin-top:14px;border-radius:5px;padding:10px 10px;background:#ff5d2a}@media screen and (max-width:991px){a.mobile-menu-link.point-dropdown{padding:20px}}</style>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>var gptadslots=[];var googletag=googletag||{cmd:[]};</script>
+<script>googletag.cmd.push(function(){var mapping1=googletag.sizeMapping().addSize([1024,0],[[970,90],[728,90]]).addSize([800,0],[[728,90]]).addSize([0,0],[[320,100],[320,50]]).build();var mapping2=googletag.sizeMapping().addSize([1024,0],[[300,250],[300,600],[250,250],[1,1]]).addSize([800,0],[[300,250],[300,600],[250,250],[1,1]]).addSize([0,0],[[336,280],[300,250],[250,250],[300,600],[1,1]]).build();var mapping3=googletag.sizeMapping().addSize([1024,0],[[728,90],[1,1]]).addSize([800,0],[[728,90],[1,1]]).addSize([0,0],[[320,100],[320,50],[1,1]]).build();var mapping4=googletag.sizeMapping().addSize([1024,0],[]).addSize([800,0],[]).addSize([0,0],[[320,50]]).build();var mapping5=googletag.sizeMapping().addSize([1024,0],[[728,90]]).addSize([800,0],[[728,90]]).addSize([0,0],[[300,250]]).build();gptadslots.push(googletag.defineSlot('/21663289026/Guesehat',[[970,90],[728,90]],'div-gpt-ad-8489992-1').setTargeting('pos',['Billboard']).defineSizeMapping(mapping1).addService(googletag.pubads()));gptadslots.push(googletag.defineSlot('/21663289026/Guesehat',[[300,600],[300,250],[250,250],[1,1]],'div-gpt-ad-8489992-2').setTargeting('pos',['Rectangle_1']).defineSizeMapping(mapping2).addService(googletag.pubads()));gptadslots.push(googletag.defineSlot('/160553881/PMP/PMP_Guesehat.com',[[728,90],[1,1]],'div-gpt-ad-8489992-3').setTargeting('pos',['Leaderboard']).defineSizeMapping(mapping3).addService(googletag.pubads()));gptadslots.push(googletag.defineSlot('/21663289026/Guesehat',[[320,50]],'div-gpt-ad-8489992-4').setTargeting('pos',['M_Sticky']).defineSizeMapping(mapping4).addService(googletag.pubads()));gptadslots.push(googletag.defineSlot('/21663289026/Guesehat',[[355,60],[320,50]],'div-gpt-ad-8489992-5').setTargeting('freakout',['Freakout_Home']).defineSizeMapping(mapping4).addService(googletag.pubads()));gptadslots.push(googletag.defineSlot('/21663289026/Guesehat',[[300,250]],'div-gpt-ad-8489992-6').setTargeting('pos',['Rectangle_2']).defineSizeMapping(mapping5).addService(googletag.pubads()));googletag.defineOutOfPageSlot('/21663289026/Guesehat','div-gpt-ad-oop').setTargeting('pos',['OOP']).addService(googletag.pubads());googletag.defineOutOfPageSlot('/160553881/Guesehat','div-gpt-ad-oop1').setTargeting('pos',['OOP']).addService(googletag.pubads());var topic=["Asam Urat","Asam Urat (Arthritis Gout)","Nyeri sendi"]
+googletag.pubads().setTargeting("topic",topic);googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.pubads().setCentering(true);googletag.enableServices();});</script>
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','2091519494465024');fbq('track','PageView');</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2091519494465024&ev=PageView&noscript=1" data-pagespeed-url-hash="3563716924"/></noscript>
+<link rel="dns-prefetch" href="//www.youtube.com"><link rel="dns-prefetch" href="//player.ivideosmart.com"></head>
+<body>
+<div id="wrapper">
+<header>
+<div class="header-block">
+<h2 class="logo">
+<a href="https://www.guesehat.com/"><script data-pagespeed-no-defer>(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/ngx_pagespeed_beacon','https://www.guesehat.com/obat-asam-urat-tradisional-dan-pantangannya','YhWMJGye80',true,false,'qdJEIMEPlzk');</script><img class="logo-web" src="https://static.guesehat.com/static/logo_web.png" alt="www.guesehat.com" data-pagespeed-url-hash="3228535507" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+</h2>
+<nav class="menu">
+<ul class="menu-list clearfix">
+<li>
+<a href="https://www.guesehat.com/artikel" class="menu-link" title="Artikel">Artikel</a>
+<div class="submenu clearfix">
+<ul class="submenu-list"><li class="mobile-only"><a class="submenu-link" href="https://www.guesehat.com/artikel" title="Semua Artikel">Semua Artikel</a></li><li><a class="submenu-link" href="https://www.guesehat.com/medis" title="Medis">Medis</a></li><li><a class="submenu-link" href="https://www.guesehat.com/wanita" title="Wanita">Wanita</a></li><li><a class="submenu-link" href="https://www.guesehat.com/cinta-dan-seks" title="Sex & Love">Sex & Love</a></li><li><a class="submenu-link" href="https://www.guesehat.com/lifestyle" title="Lifestyle">Lifestyle</a></li></ul>
+<div class="submenu-info">
+<p>Perbarui pengetahuanmu seputar info kesehatan terkini, yang meliputi medis, gaya hidup, masalah kewanitaan, serta kehidupan seks dan percintaanmu di sini.</p>
+</div>
+</div>
+</li><li>
+<a href="https://www.guesehat.com/direktori" class="menu-link" title="Direktori">Direktori</a>
+<div class="submenu clearfix">
+<ul class="submenu-list"><li class="mobile-only"><a class="submenu-link" href="https://www.guesehat.com/direktori" title="Semua Direktori">Semua Direktori</a></li><li><a class="submenu-link" href="https://www.guesehat.com/direktori/dokter" title="Dokter">Dokter</a></li><li><a class="submenu-link" href="https://www.guesehat.com/direktori/rumah-sakit" title="Rumah Sakit">Rumah Sakit</a></li><li><a class="submenu-link" href="https://www.guesehat.com/direktori/klinik" title="Klinik">Klinik</a></li><li><a class="submenu-link" href="https://www.guesehat.com/direktori/gym-health-club" title="Gym & Health Club">Gym & Health Club</a></li><li><a class="submenu-link" href="https://www.guesehat.com/direktori/spa-massage" title="Spa & Massage">Spa & Massage</a></li><li><a class="submenu-link" href="https://www.guesehat.com/direktori/makanan-minuman-sehat" title="Healthy Food & Beverage">Healthy Food & Beverage</a></li><li><a class="submenu-link" href="https://www.guesehat.com/direktori/perawatan-kecantikan" title="Beauty">Beauty</a></li><li><a class="submenu-link" href="https://www.guesehat.com/direktori/lab" title="Lab">Lab</a></li><li><a class="submenu-link" href="https://www.guesehat.com/direktori/praktisi" title="Praktisi">Praktisi</a></li></ul>
+<div class="submenu-info">
+<p>Sedang mencari dokter, rumah sakit, lab, atau beauty center seperti klinik kecantikan, gym, dan spa yang terdekat dengan lokasimu saat ini? Temukan semua di kanal direktori!</p>
+</div>
+</div>
+</li><li>
+<a href="https://www.guesehat.com/info-kesehatan" class="menu-link" title="Info Kesehatan">Info Kesehatan</a>
+<div class="submenu clearfix">
+<ul class="submenu-list"><li class="mobile-only"><a class="submenu-link" href="https://www.guesehat.com/info-kesehatan" title="Semua Info Kesehatan">Semua Info Kesehatan</a></li><li><a class="submenu-link" href="https://www.guesehat.com/pusat-kesehatan" title="Pusat Kesehatan">Pusat Kesehatan</a></li><li><a class="submenu-link" href="https://www.guesehat.com/nama-penyakit-a-z" title="Penyakit">Penyakit</a></li><li><a class="submenu-link" href="https://www.guesehat.com/info-obat" title="Info Obat">Info Obat</a></li></ul>
+<div class="submenu-info">
+<p>Di pusat kesehatan, rasakan kemudahan mencari informasi terkait masalah kesehatanmu, mulai dari artikel, cari rumah sakit terdekat dengan lokasimu, hingga konsultasi dengan dokter / pakar kesehatan.</p>
+</div>
+</div>
+</li><li><a href="https://www.guesehat.com/forum" class="menu-link" title="Forum">Forum</a></li><li><a href="https://www.guesehat.com/events" class="menu-link" title="Event">Event</a></li><li>
+<a href="https://www.guesehat.com/buku-kesehatan" class="menu-link" title="Buku Kesehatan">Buku Kesehatan</a>
+<div class="submenu clearfix">
+<ul class="submenu-list"><li class="mobile-only"><a class="submenu-link" href="https://www.guesehat.com/buku-kesehatan" title="Semua Buku Kesehatan">Semua Buku Kesehatan</a></li><li><a class="submenu-link" href="https://www.guesehat.com/buku-kesehatan/indeks-massa-tubuh" title="Hitung kalori & IMT">Hitung kalori & IMT</a></li><li><a class="submenu-link" href="https://www.guesehat.com/buku-kesehatan/siklus-haid" title="Siklus Haid">Siklus Haid</a></li><li><a class="submenu-link" href="https://www.guesehat.com/buku-kesehatan/kehamilan" title="Kehamilan">Kehamilan</a></li><li><a class="submenu-link" href="https://www.guesehat.com/buku-kesehatan/tumbuh-kembang-anak" title="Tumbuh Kembang & Imunisasi">Tumbuh Kembang & Imunisasi</a></li></ul>
+<div class="submenu-info">
+<p>Jangan lupa untuk memantau kondisi kesehatanmu secara rutin ya, Gengs! Melalui buku kesehatan, Kamu dapat menghitung kalori harian, cek IMT, masa subur wanita, hingga prediksi kelahiran si Bayi.</p>
+</div>
+</div>
+</li>
+<li><a href="javascript:;" class="menu-link type-search search-trigger active"></a></li>
+<li><a href="https://www.guesehat.com/member?destination=obat-asam-urat-tradisional-dan-pantangannya" class="menu-link type2">Login</a></li>
+<li>
+<a class="header-write clearfix" href="https://www.guesehat.com/tulisartikel" title="Tulis Artikel">
+<span class="header-write-icon"></span>
+<span class="header-write-text">Tulis Artikel</span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="mobile-header-search search-trigger"></div>
+<div class="mobile-menu-button"></div>
+</div>
+</header>
+<div class="mobile-menu">
+<div class="mobile-header-login-cont">
+<a href="https://www.guesehat.com/member?destination=obat-asam-urat-tradisional-dan-pantangannya" class="mobile-header-login-button" title="Login">Login</a>
+<a href="https://www.guesehat.com/member?mode=daftar&destination=obat-asam-urat-tradisional-dan-pantangannya" class="mobile-header-login-button type2" title="Register">Register</a>
+</div><ul class="mobile-menu-list"><li>
+<div class="accord">
+<div class="accord-it">
+<div class="accord-head">
+<div class="mobile-menu-expand"></div>
+<a href="https://www.guesehat.com/artikel" class="mobile-menu-link accord-null" title="Artikel">Artikel</a>
+</div>
+<div class="accord-body">
+<div class="accord-viewport">
+<div class="mobile-submenu accord-content">
+<ul class="mobile-submenu-list"><li class="mobile-only">
+<a href="https://www.guesehat.com/artikel" class="mobile-submenu-link" title="Semua Artikel">Semua Artikel</a>
+</li><li>
+<a href="https://www.guesehat.com/medis" class="mobile-submenu-link" title="Medis">Medis</a>
+</li><li>
+<a href="https://www.guesehat.com/wanita" class="mobile-submenu-link" title="Wanita">Wanita</a>
+</li><li>
+<a href="https://www.guesehat.com/cinta-dan-seks" class="mobile-submenu-link" title="Sex & Love">Sex & Love</a>
+</li><li>
+<a href="https://www.guesehat.com/lifestyle" class="mobile-submenu-link" title="Lifestyle">Lifestyle</a>
+</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li><li>
+<div class="accord">
+<div class="accord-it">
+<div class="accord-head">
+<div class="mobile-menu-expand"></div>
+<a href="https://www.guesehat.com/direktori" class="mobile-menu-link accord-null" title="Direktori">Direktori</a>
+</div>
+<div class="accord-body">
+<div class="accord-viewport">
+<div class="mobile-submenu accord-content">
+<ul class="mobile-submenu-list"><li class="mobile-only">
+<a href="https://www.guesehat.com/direktori" class="mobile-submenu-link" title="Semua Direktori">Semua Direktori</a>
+</li><li>
+<a href="https://www.guesehat.com/direktori/dokter" class="mobile-submenu-link" title="Dokter">Dokter</a>
+</li><li>
+<a href="https://www.guesehat.com/direktori/rumah-sakit" class="mobile-submenu-link" title="Rumah Sakit">Rumah Sakit</a>
+</li><li>
+<a href="https://www.guesehat.com/direktori/klinik" class="mobile-submenu-link" title="Klinik">Klinik</a>
+</li><li>
+<a href="https://www.guesehat.com/direktori/gym-health-club" class="mobile-submenu-link" title="Gym & Health Club">Gym & Health Club</a>
+</li><li>
+<a href="https://www.guesehat.com/direktori/spa-massage" class="mobile-submenu-link" title="Spa & Massage">Spa & Massage</a>
+</li><li>
+<a href="https://www.guesehat.com/direktori/makanan-minuman-sehat" class="mobile-submenu-link" title="Healthy Food & Beverage">Healthy Food & Beverage</a>
+</li><li>
+<a href="https://www.guesehat.com/direktori/perawatan-kecantikan" class="mobile-submenu-link" title="Beauty">Beauty</a>
+</li><li>
+<a href="https://www.guesehat.com/direktori/lab" class="mobile-submenu-link" title="Lab">Lab</a>
+</li><li>
+<a href="https://www.guesehat.com/direktori/praktisi" class="mobile-submenu-link" title="Praktisi">Praktisi</a>
+</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li><li>
+<div class="accord">
+<div class="accord-it">
+<div class="accord-head">
+<div class="mobile-menu-expand"></div>
+<a href="https://www.guesehat.com/info-kesehatan" class="mobile-menu-link accord-null" title="Info Kesehatan">Info Kesehatan</a>
+</div>
+<div class="accord-body">
+<div class="accord-viewport">
+<div class="mobile-submenu accord-content">
+<ul class="mobile-submenu-list"><li class="mobile-only">
+<a href="https://www.guesehat.com/info-kesehatan" class="mobile-submenu-link" title="Semua Info Kesehatan">Semua Info Kesehatan</a>
+</li><li>
+<a href="https://www.guesehat.com/pusat-kesehatan" class="mobile-submenu-link" title="Pusat Kesehatan">Pusat Kesehatan</a>
+</li><li>
+<a href="https://www.guesehat.com/nama-penyakit-a-z" class="mobile-submenu-link" title="Penyakit">Penyakit</a>
+</li><li>
+<a href="https://www.guesehat.com/info-obat" class="mobile-submenu-link" title="Info Obat">Info Obat</a>
+</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li><li>
+<div class="mobile-menu-expand"></div>
+<a href="https://www.guesehat.com/forum" class="mobile-menu-link" title="Forum">Forum</a>
+</li><li>
+<div class="mobile-menu-expand"></div>
+<a href="https://www.guesehat.com/events" class="mobile-menu-link" title="Event">Event</a>
+</li><li>
+<div class="accord">
+<div class="accord-it">
+<div class="accord-head">
+<div class="mobile-menu-expand"></div>
+<a href="https://www.guesehat.com/buku-kesehatan" class="mobile-menu-link accord-null" title="Buku Kesehatan">Buku Kesehatan</a>
+</div>
+<div class="accord-body">
+<div class="accord-viewport">
+<div class="mobile-submenu accord-content">
+<ul class="mobile-submenu-list"><li class="mobile-only">
+<a href="https://www.guesehat.com/buku-kesehatan" class="mobile-submenu-link" title="Semua Buku Kesehatan">Semua Buku Kesehatan</a>
+</li><li>
+<a href="https://www.guesehat.com/buku-kesehatan/indeks-massa-tubuh" class="mobile-submenu-link" title="Hitung kalori & IMT">Hitung kalori & IMT</a>
+</li><li>
+<a href="https://www.guesehat.com/buku-kesehatan/siklus-haid" class="mobile-submenu-link" title="Siklus Haid">Siklus Haid</a>
+</li><li>
+<a href="https://www.guesehat.com/buku-kesehatan/kehamilan" class="mobile-submenu-link" title="Kehamilan">Kehamilan</a>
+</li><li>
+<a href="https://www.guesehat.com/buku-kesehatan/tumbuh-kembang-anak" class="mobile-submenu-link" title="Tumbuh Kembang & Imunisasi">Tumbuh Kembang & Imunisasi</a>
+</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li><li>
+<a href="https://www.guesehat.com/tulisartikel" class="mobile-menu-link" title="Tulis Artikel">Tulis Artikel</a>
+</li></ul>	</div>
+<div id="content">
+<div style="text-align: center;margin-top: 10px;margin-bottom: 10px;" id='div-gpt-ad-8489992-1'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-8489992-1');});</script>
+</div>
+<article class="article">
+<div class="container">
+<div class="article-media">
+<img class="article-media-img" data-src="https://static.guesehat.com/static/article/pantangan_makanan_pengobatan_asam_urat_alami_paling_ampuh_1563165233.jpg" alt="Mau Tahu Obat Asam Urat Tradisional dan Pantangannya?">	</div>
+<div class="article-media-text"><p>pexels.com</p></div>
+<div class="clearfix">
+<div class="article-main">
+<div class="gpt-ads-3" id='div-gpt-ad-8489992-3'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-8489992-3');});</script>
+</div>
+<div class="article-categ-cont categ-cont">
+<a class="categ" style="background-color: #48E4BE;" href="https://www.guesehat.com/medis">Medis</a>
+</div>
+<h1 class="article-title">Mau Tahu Obat Asam Urat Tradisional dan Pantangannya?</h1>
+<div class="article-categ-cont categ-cont">
+<div style="color: #999;">Informasi kesehatan ditinjau dan diedit oleh <a class="categ" style="background-color: #00B900; vertical-align: middle; text-transform: none" href="https://www.guesehat.com/yurika-elizabeth-susanti-1">dr. Yurika Elizabeth Susanti</a></div>	</div>
+<div class="article-body">
+<div class="ads-div-topspacer"></div>
+<div class="ads-div">
+</div>
+<p>&nbsp;<span style="font-weight: 400;">Apakah Kamu pernah merasakan nyeri di persendian? Nyeri yang muncul di persendian bisa saja lho diakibatkan oleh penyakit asam urat. Lalu, apakah ada obat asam urat tradisional yang efektif meredakan nyeri? Ketahui obat asam urat tradisional dan pantangannya berikut ini yuk, Gengs!</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h2><strong>Apa Saja Penyebab Asam Urat?</strong></h2>
+<p><span style="font-weight: 400;">Penyakit asam urat menyerang saat kelebihan asam urat dalam darah atau disebut juga dengan hiperurisemia. Asam urat diproduksi dalam tubuh saat memecah purin, senyawa yang ditemukan dalam makanan tertentu, seperti makanan laut ataupun daging.&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Biasanya </span><a href="https://www.guesehat.com/kuis-yuk-uji-pemahaman-kamu-seputar-asam-urat" target="_blank"><span style="font-weight: 400;">asam urat</span></a><span style="font-weight: 400;"> dilarutkan dalam darah dan dikeluarkan oleh tubuh dari urine melalui ginjal. Jika asam urat terlalu banyak diproduksi, maka akan menumpuk dan membentuk kristal seperti jarum yang memicu peradangan dan rasa sakit pada sendi serta jaringan di sekitarnya.&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Sebelum mengetahui obat asam urat tradisional dan pantanganya, Kamu perlu mengetahui sejumlah faktor yang dapat meningkatkan risiko terserang asam urat, yaitu:</span></p>
+<ul>
+<li style="font-weight: 400;"><strong>Usia dan jenis kelamin.</strong><span style="font-weight: 400;"> Pria biasanya lebih sering terserang asam urat daripada wanita, meski kadar asam urat wanita bisa saja mendekati pria setelah menopause.&nbsp;</span>&nbsp;</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Genetik.</strong><span style="font-weight: 400;"> Riwayat keluarga yang memiliki asam urat dapat meningkatkan risiko terkena penyakit ini.&nbsp;</span>&nbsp;</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Gaya hidup.</strong><span style="font-weight: 400;"> Konsumsi alkohol tertentu, seperti bir secara berlebihan dapat mengembangkan asam urat. Mengonsumsi makanan dengan purin yang tinggi juga meningkatkan kadar asam urat dalam tubuh.&nbsp;</span>&nbsp;</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Obatan-obatan tertentu.</strong><span style="font-weight: 400;"> Obatan-obatan tertentu bisa meningkatkan kadar asam urat dalam tubuh, termasuk obat-obatan yang mengandung salisilat.&nbsp;</span>&nbsp;</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Obesitas.</strong><span style="font-weight: 400;"> Kelebihan berat badan dapat meningkatkan risiko asam urat. Tingkat lemak tubuh yang lebih tinggi juga meningkatkan tingkat peradangan sistemik karena sel-sel lemak menghasilkan </span><em><span style="font-weight: 400;">pro-inflammatory cytokines</span></em><span style="font-weight: 400;">.&nbsp;</span>&nbsp;</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Gangguan kesehatan lainnya.</strong><span style="font-weight: 400;"> Masalah pada ginjal dapat mengurangi kemampuan tubuh untuk membuang limbah dan racun dan menyebabkan kadar asam urat meningkat. Kondisi yang dapat memengaruhi asam urat, seperti tekanan darah tinggi, diabetes, dan gangguan pada kelenjar tiroid.&nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h5><strong><em>Baca juga: </em></strong><a href="https://www.guesehat.com/usia-yang-rentan-terkena-asam-urat" target="_blank"><strong><em>Usia yang Rentan Terkena Asam Urat</em></strong></a><span style="font-weight: 400;">&nbsp;</span></h5>
 <p>&nbsp;</p>
-</div><ul></ul></div></div></div></div></div></div><div class="w-full lg:hidden"></div><div class="w-full lg:w-1/3"><div><div class="text-2xl font-sourceSansPro font-semibold my-3">Berita Terkait</div><ul><li><a data-id="Berita Terkait" class="flex shadow-postShadow rounded-lg p-2 mb-2 border-subTitle cursor-pointer" href="/hidup-sehat/info-sehat/wajib-tahu-ini-dampak-gerhana-bulan-bagi-kesehatan-manusia/"><div class="relative w-1/3 rounded-lg overflow-hidden flex justify-center items-center"><div style="display:block;overflow:hidden;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;margin:0"><noscript><img alt="relative article image" srcSet="/_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fshutterstock_369590351-300x200.jpg&amp;w=320&amp;q=75 320w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fshutterstock_369590351-300x200.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fshutterstock_369590351-300x200.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fshutterstock_369590351-300x200.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fshutterstock_369590351-300x200.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fshutterstock_369590351-300x200.jpg&amp;w=1200&amp;q=75 1200w" src="https://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_369590351-300x200.jpg" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></noscript><img alt="relative article image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></div></div><div class="flex-1 ml-2"><div class="text-logoColor text-lg sm:text-2xl sm:ml-3 sm:mt-3 lg:ml-0 lg:mt-0 lg:text-lg font-bold">Info Sehat</div><div class="styles_clamp__1Ch9c text-base sm:text-lg mt-1 sm:ml-3 sm:mt-3 md:mt-3 lg:ml-0 lg:mt-1"><p>Wajib Tahu, Ini Dampak Gerhana Bulan bagi Kesehatan Manusia</p></div></div></a></li><li><a data-id="Berita Terkait" class="flex shadow-postShadow rounded-lg p-2 mb-2 border-subTitle cursor-pointer" href="/hidup-sehat/info-sehat/fungsi-usg/"><div class="relative w-1/3 rounded-lg overflow-hidden flex justify-center items-center"><div style="display:block;overflow:hidden;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;margin:0"><noscript><img alt="relative article image" srcSet="/_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Ffungsi-USG-300x200.jpg&amp;w=320&amp;q=75 320w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Ffungsi-USG-300x200.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Ffungsi-USG-300x200.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Ffungsi-USG-300x200.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Ffungsi-USG-300x200.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Ffungsi-USG-300x200.jpg&amp;w=1200&amp;q=75 1200w" src="https://cms.gooddoctor.co.id/wp-content/uploads/2021/05/fungsi-USG-300x200.jpg" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></noscript><img alt="relative article image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></div></div><div class="flex-1 ml-2"><div class="text-logoColor text-lg sm:text-2xl sm:ml-3 sm:mt-3 lg:ml-0 lg:mt-0 lg:text-lg font-bold">Info Sehat</div><div class="styles_clamp__1Ch9c text-base sm:text-lg mt-1 sm:ml-3 sm:mt-3 md:mt-3 lg:ml-0 lg:mt-1"><p>Selain Pemeriksaan Kehamilan, Ini Fungsi Lain dari USG</p></div></div></a></li><li><a data-id="Berita Terkait" class="flex shadow-postShadow rounded-lg p-2 mb-2 border-subTitle cursor-pointer" href="/hidup-sehat/info-sehat/manfaat-buah-matoa/"><div class="relative w-1/3 rounded-lg overflow-hidden flex justify-center items-center"><div style="display:block;overflow:hidden;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;margin:0"><noscript><img alt="relative article image" srcSet="/_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F01%2Fmanfaat-buah-matoa-300x200.jpg&amp;w=320&amp;q=75 320w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F01%2Fmanfaat-buah-matoa-300x200.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F01%2Fmanfaat-buah-matoa-300x200.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F01%2Fmanfaat-buah-matoa-300x200.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F01%2Fmanfaat-buah-matoa-300x200.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F01%2Fmanfaat-buah-matoa-300x200.jpg&amp;w=1200&amp;q=75 1200w" src="https://cms.gooddoctor.co.id/wp-content/uploads/2021/01/manfaat-buah-matoa-300x200.jpg" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></noscript><img alt="relative article image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></div></div><div class="flex-1 ml-2"><div class="text-logoColor text-lg sm:text-2xl sm:ml-3 sm:mt-3 lg:ml-0 lg:mt-0 lg:text-lg font-bold">Info Sehat</div><div class="styles_clamp__1Ch9c text-base sm:text-lg mt-1 sm:ml-3 sm:mt-3 md:mt-3 lg:ml-0 lg:mt-1"><p>6 Manfaat Buah Matoa untuk Tubuh: Baik untuk Kulit dan Jantung</p></div></div></a></li><li><a data-id="Berita Terkait" class="flex shadow-postShadow rounded-lg p-2 mb-2 border-subTitle cursor-pointer" href="/hidup-sehat/info-sehat/infeksi-jamur-hitam-belum-mereda-kini-muncul-varian-putih-dan-kuning-di-india/"><div class="relative w-1/3 rounded-lg overflow-hidden flex justify-center items-center"><div style="display:block;overflow:hidden;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;margin:0"><noscript><img alt="relative article image" srcSet="/_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Finfeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india-300x200.jpg&amp;w=320&amp;q=75 320w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Finfeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india-300x200.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Finfeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india-300x200.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Finfeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india-300x200.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Finfeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india-300x200.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Finfeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india-300x200.jpg&amp;w=1200&amp;q=75 1200w" src="https://cms.gooddoctor.co.id/wp-content/uploads/2021/05/infeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india-300x200.jpg" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></noscript><img alt="relative article image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></div></div><div class="flex-1 ml-2"><div class="text-logoColor text-lg sm:text-2xl sm:ml-3 sm:mt-3 lg:ml-0 lg:mt-0 lg:text-lg font-bold">Info Sehat</div><div class="styles_clamp__1Ch9c text-base sm:text-lg mt-1 sm:ml-3 sm:mt-3 md:mt-3 lg:ml-0 lg:mt-1"><p>Infeksi Jamur Hitam Belum Mereda, Kini Muncul Varian Putih dan Kuning di India</p></div></div></a></li><li><a data-id="Berita Terkait" class="flex shadow-postShadow rounded-lg p-2 mb-2 border-subTitle cursor-pointer" href="/hidup-sehat/info-sehat/badan-lemas-tak-bertenaga/"><div class="relative w-1/3 rounded-lg overflow-hidden flex justify-center items-center"><div style="display:block;overflow:hidden;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;margin:0"><noscript><img alt="relative article image" srcSet="/_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fbadan-lemas-tak-bertenaga-300x200.jpg&amp;w=320&amp;q=75 320w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fbadan-lemas-tak-bertenaga-300x200.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fbadan-lemas-tak-bertenaga-300x200.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fbadan-lemas-tak-bertenaga-300x200.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fbadan-lemas-tak-bertenaga-300x200.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcms.gooddoctor.co.id%2Fwp-content%2Fuploads%2F2021%2F05%2Fbadan-lemas-tak-bertenaga-300x200.jpg&amp;w=1200&amp;q=75 1200w" src="https://cms.gooddoctor.co.id/wp-content/uploads/2021/05/badan-lemas-tak-bertenaga-300x200.jpg" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></noscript><img alt="relative article image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/></div></div><div class="flex-1 ml-2"><div class="text-logoColor text-lg sm:text-2xl sm:ml-3 sm:mt-3 lg:ml-0 lg:mt-0 lg:text-lg font-bold">Info Sehat</div><div class="styles_clamp__1Ch9c text-base sm:text-lg mt-1 sm:ml-3 sm:mt-3 md:mt-3 lg:ml-0 lg:mt-1"><p>Badan Lemas Tak Bertenaga? Ketahui, Ini Beberapa Penyebab Umumnya!</p></div></div></a></li></ul></div></div></div></article></div></main><footer><div class="divide-y-2 md:divide-y-0 divide-bgfooter1"><div class="bg-bgfooter py-4 pl-6 md:hidden"><div class="w-full mx-auto"><div><div class="styles_panel__1_zF8"><div class="styles_header__nwtZ-"><svg width="20" aria-hidden="true" focusable="false" class="styles_fas__3V13o w-5 inline-block" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg><span>Good Doctor Technology</span></div><div class="styles_body__3_F0l"><ul><li><a href="/tentang-kami/contact-us/">Contact us</a></li><li><a href="/tentang-kami/faq/">FAQs</a></li><li><a href="/privacy-policy/">Privacy Policy</a></li><li><a href="/terms-of-service/">Terms of Services</a></li></ul></div></div></div></div></div><div class="bg-bgfooter"><div class="px-3 xl:px-10 container mx-auto flex justify-center md:justify-between" style="height:208px"><div class="hidden md:flex"><div class="flex items-center justify-center"><img class="h-24" src="/images/footer/good-doctor-logo.png" alt="footer logo"/></div><div class="flex items-center justify-center"><div class="h-24 ml-10 text-text1 space-y-2"><div><a class="text-lg text-t1 hover:text-brand" href="/tentang-kami/contact-us/">Contact us</a></div><div><a class="text-lg text-t1 hover:text-brand" href="/tentang-kami/faq/">FAQs</a></div><div><a class="text-lg text-t1 hover:text-brand" href="/privacy-policy/">Privacy Policy</a></div><div><a class="text-lg text-t1 hover:text-brand" href="/terms-of-service/">Terms of Service</a></div></div></div></div><div class="flex"><div class="pt-8 text-center md:text-left"><p class="text-icon mt-0 mb-2">Download Aplikasi</p><div class="flex space-x-1"><a href="https://gooddoctor.onelink.me/Cmiw/webproducts"><img class="h-10" src="/svg/google-store.svg" alt="app button"/></a><a href="https://gooddoctor.onelink.me/Cmiw/webproducts"><img class="h-10" src="/svg/app-store.svg" alt="app button"/></a></div><p class="text-icon mt-4 mb-2">Apakah Anda Dokter?</p><div class="flex justify-center md:justify-start"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-3ZRHVKov7oIHxYSK7pKuwF8ExpOvY5KZT0Cw1XeOv4SslQ/viewform" target="_blank"><div class="flex space-x-2 text-base text-white items-center bg-bgcolor1 px-4 py-1 rounded-btn"><svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 74 74"><g fill="none" fill-rule="evenodd"><path fill="#FD7166" d="M40.6 33.48h-2.86c-.243-.015-.487-.015-.73 0-.41.037-.765.3-.92.68-.172.344-.205.742-.09 1.11.133.492.553.854 1.06.91.273.015.547.015.82 0h.65c.283.017.542.165.7.4.294.367.366.864.19 1.3-.238.635-.634 1.2-1.15 1.64-.33.28-.68.54-1 .79-.776.564-1.71.868-2.67.87h-1.66c-1.4-.023-2.745-.556-3.78-1.5-1.087-.962-1.884-2.21-2.3-3.6-.272-.788-.407-1.617-.4-2.45.008-1.773.674-3.48 1.87-4.79.28-.31.59-.62.91-.91.588-.516 1.266-.92 2-1.19 1.014-.383 2.112-.487 3.18-.3.945.15 1.85.49 2.66 1 .258.167.502.354.73.56 1.058.977 2.35 1.666 3.75 2 .358.082.723.128 1.09.14h.74c1.257-.003 2.496-.308 3.61-.89.672-.313 1.287-.735 1.82-1.25l1-1c1.259-1.369 2.924-2.298 4.75-2.65.57-.12 1.15-.16 1.73-.24h.28c1.198.069 2.377.332 3.49.78 1.013.446 1.943 1.062 2.75 1.82.94.882 1.683 1.952 2.18 3.14.388.909.602 1.882.63 2.87v.92c.011 1.174-.241 2.337-.74 3.4-.735 1.704-1.978 3.14-3.56 4.11-1.157.714-2.459 1.161-3.81 1.31-.46.035-.92.035-1.38 0-1.077-.013-2.151.125-3.19.41-1.943.494-3.755 1.405-5.31 2.67-1.755 1.413-3.13 3.242-4 5.32-.738 1.614-1.126 3.365-1.14 5.14v.74c-.002 1.502-.413 2.975-1.19 4.26-.775 1.41-1.92 2.581-3.31 3.39-1.302.772-2.786 1.183-4.3 1.19h-.6c-2.28.001-4.468-.889-6.1-2.48-1.34-1.24-2.271-2.858-2.67-4.64-.093-.48-.137-.97-.13-1.46-.033-1.137-.147-2.27-.34-3.39-.903-4.412-3.883-8.115-8-9.94-1.01-.469-2.075-.805-3.17-1-.89-.135-1.79-.188-2.69-.16-1.514.003-3-.405-4.3-1.18-1.447-.83-2.65-2.027-3.49-3.47-.484-.858-.822-1.79-1-2.76-.15-.598-.22-1.213-.21-1.83.033-1.67.505-3.301 1.37-4.73 1.429-2.384 3.873-3.98 6.63-4.33.66-.109 1.33-.16 2-.15 1.076 0 2.146-.169 3.17-.5 2.205-.65 4.21-1.847 5.83-3.48 1.05-1.04 1.93-2.238 2.61-3.55.719-1.398 1.189-2.91 1.39-4.47.07-.52.05-1.05.07-1.57.016-1.138.215-2.266.59-3.34.733-2.113 2.227-3.878 4.19-4.95.995-.56 2.088-.924 3.22-1.07.544-.103 1.097-.147 1.65-.13.49.04.978.11 1.46.21 3.652.763 6.493 3.639 7.21 7.3.06.33.1.665.12 1v.74c.029 2.237-.79 4.401-2.29 6.06-1.195 1.384-2.781 2.374-4.55 2.84-.708.205-1.443.306-2.18.3-.063-.005-.127-.005-.19 0-2.003-.037-3.987.387-5.8 1.24-1.12.523-2.162 1.196-3.1 2l-.56.48c-.166.136-.323.283-.47.44-.99 1.057-1.831 2.245-2.5 3.53-.588 1.184-1.002 2.447-1.23 3.75-.215 1.12-.275 2.264-.18 3.4.153 2.19.84 4.308 2 6.17 2.113 3.353 5.56 5.643 9.47 6.29 1.306.208 2.633.252 3.95.13 1.2-.114 2.367-.453 3.44-1 1.248-.597 2.417-1.346 3.48-2.23.29-.23.58-.46.85-.71.723-.668 1.364-1.42 1.91-2.24.558-.817.864-1.78.88-2.77-.015-.153-.015-.307 0-.46.105-.853.105-1.717 0-2.57-.001-.151-.018-.302-.05-.45-.083-.473-.456-.842-.93-.92-.275-.042-.552-.059-.83-.05H40.6z" transform="translate(0 4)"></path></g></svg><span>Register</span></div></a></div></div><div class="hidden md:block ml-6"><img class="hidden md:block ml-6" alt="footer background" src="/images/footer/group-mask.png" style="width:250px"/></div></div></div></div></div><div class="bg-bgfooter1"><div class="px-3 xl:px-10 container mx-auto py-6 md:py-3"><div class="md:flex md:flex-row-reverse justify-between items-center"><div class="flex justify-center"><ul class="flex space-x-5 md:space-x-4"><li><a href="https://www.facebook.com/gooddoctor.id/" data-id="facebook-btn"><span class="cursor-pointer bg-icon w-9 h-9 rounded-full text-white flex items-center justify-center"><svg class="h-5" focusable="false" width="16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span></a></li><li><a href="https://www.instagram.com/gooddoctor.id/" data-id="instagram-btn"><span class="cursor-pointer bg-icon w-9 h-9 rounded-full text-white flex items-center justify-center"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1907 0.224826C12.5622 0.243531 11.9668 0.26125 11.4261 0.230296C10.7427 0.230296 10.1065 0.227303 9.50089 0.224454C8.37289 0.219148 7.35087 0.214341 6.32677 0.230296C3.12987 0.289148 0.261486 3.10424 0.227163 6.25772C0.19284 9.3965 0.187937 12.5353 0.232066 15.674C0.281099 18.9158 3.10045 21.7211 6.34148 21.7652C9.45503 21.8094 12.5735 21.8143 15.687 21.7652C18.8447 21.7162 21.6837 18.9305 21.7523 15.7721C21.821 12.6137 21.8112 9.45045 21.7523 6.28715C21.6984 3.3985 19.4331 0.838433 16.5647 0.352904C15.4148 0.158642 14.2552 0.193149 13.1907 0.224826ZM6.60626 2.33916H11.0339C11.4803 2.33916 11.9271 2.3373 12.3741 2.33545H12.3741H12.3742H12.3742H12.3742C13.3806 2.33127 14.3879 2.32708 15.3928 2.34406C17.8935 2.3833 19.6096 4.05568 19.6488 6.5667C19.693 9.56324 19.693 12.5647 19.6488 15.5612C19.6145 17.8908 17.8837 19.622 15.5546 19.6564C12.5147 19.7005 9.46975 19.7005 6.42485 19.6564C4.12523 19.622 2.39439 17.9153 2.35517 15.6201C2.30614 12.5304 2.30614 9.43573 2.35027 6.346C2.37968 4.15376 4.12523 2.45196 6.33168 2.34897C6.41994 2.34406 6.5131 2.33916 6.60626 2.33916ZM16.9128 11.0934C16.9275 7.82221 14.2455 5.09049 11.0093 5.08559C7.78793 5.08068 5.07644 7.77807 5.08135 10.9855C5.08625 14.2224 7.75851 16.9099 10.975 16.9197C14.1572 16.9296 16.8981 14.242 16.9128 11.0934ZM14.7946 11.0836C14.7799 13.2023 13.1374 14.806 10.9848 14.8011C8.77839 14.8011 7.17994 13.1679 7.19955 10.9217C7.20936 8.79817 8.84703 7.19935 11.0045 7.20426C13.206 7.20916 14.8143 8.84721 14.7946 11.0836ZM16.751 6.16944C17.2561 6.16944 17.6826 5.76238 17.6875 5.26705C17.6925 4.78152 17.2708 4.33522 16.7854 4.3107C16.2999 4.29108 15.839 4.70795 15.8194 5.19348C15.7949 5.73296 16.2117 6.16944 16.751 6.16944Z" fill="currentColor"></path></svg></span></a></li><li><a href="https://www.linkedin.com/company/gooddoctortech/" data-id="linkedin-btn"><span class="cursor-pointer bg-icon w-9 h-9 rounded-full text-white flex items-center justify-center"><svg width="22" height="21" viewBox="0 0 22 21" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M12.3745 8.50803C12.6895 8.0788 13.008 7.71534 13.3957 7.41419C14.133 6.83611 14.9811 6.5488 15.9053 6.47265C16.7845 6.39996 17.643 6.49688 18.4703 6.80842C19.7372 7.28611 20.6165 8.17919 21.1634 9.40457C21.5095 10.18 21.6757 10.9969 21.7449 11.838C21.7761 12.1876 21.7726 12.5338 21.7726 12.88C21.7726 15.4173 21.7726 17.9546 21.7726 20.4919C21.7726 20.7376 21.7726 20.7376 21.5338 20.7376C20.0972 20.7376 18.6642 20.7376 17.2276 20.7376C17.0026 20.7376 17.0026 20.7376 17.0026 20.5092C17.0026 18.0723 17.0026 15.6353 17.0026 13.1984C17.0026 12.6792 16.9438 12.1669 16.7707 11.6719C16.4142 10.6403 15.6734 10.218 14.6418 10.263C13.3403 10.3219 12.6515 11.3292 12.4472 12.1253C12.3711 12.423 12.3711 12.7311 12.3711 13.0357C12.3676 15.5211 12.3676 18.0065 12.3676 20.4884C12.3676 20.7342 12.3676 20.7342 12.1288 20.7342C10.6992 20.7342 9.26954 20.7342 7.83992 20.7342C7.60107 20.7342 7.60107 20.7342 7.60107 20.5023C7.60454 18.7403 7.59415 16.9784 7.61492 15.2165C7.63915 13.0184 7.6253 10.8169 7.62877 8.6188C7.62877 8.07188 7.61146 7.52149 7.60454 6.97457C7.60107 6.7738 7.608 6.76688 7.80184 6.76688C9.26261 6.76688 10.7234 6.76688 12.1842 6.76342C12.3261 6.76342 12.378 6.80496 12.3745 6.9538C12.3676 7.45919 12.3745 7.96111 12.3745 8.50803Z" fill="currentColor"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M5.2716 13.7801C5.2716 16.0232 5.2716 18.2628 5.2716 20.5059C5.2716 20.7413 5.2716 20.7413 5.04313 20.7413C3.59967 20.7413 2.15275 20.7413 0.709288 20.7413C0.491211 20.7413 0.491211 20.7378 0.491211 20.5197C0.491211 16.0163 0.491211 11.5128 0.491211 7.00589C0.491211 6.77397 0.494672 6.77051 0.733519 6.77051C2.1666 6.77051 3.60313 6.77051 5.03621 6.77051C5.26813 6.77051 5.27506 6.77743 5.27506 7.00935C5.2716 9.26628 5.2716 11.5232 5.2716 13.7801Z" fill="currentColor"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M0.228041 2.59934C0.231503 1.34973 1.09343 0.363189 2.35689 0.179728C3.09073 0.0758818 3.80381 0.131266 4.44419 0.543189C5.30266 1.1005 5.65573 1.92434 5.54496 2.9178C5.42727 3.97357 4.80073 4.65204 3.79343 4.96011C3.18073 5.1505 2.55419 5.14704 1.9415 4.94973C0.864964 4.6105 0.22458 3.7278 0.228041 2.59934Z" fill="currentColor"></path></svg></span></a></li><li><a href="https://twitter.com/gooddoctorid" data-id="twitter-btn"><span class="cursor-pointer bg-icon w-9 h-9 rounded-full text-white flex items-center justify-center"><svg width="22" height="18" viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21.796 2.08616C21.796 2.1149 21.796 2.13954 21.796 2.16829C21.7622 2.20524 21.7243 2.23399 21.6947 2.27506C21.1547 3.02654 20.5093 3.67948 19.7541 4.22975C19.6275 4.32009 19.6107 4.43507 19.6149 4.57058C19.6571 5.90109 19.463 7.20285 19.058 8.47175C18.2227 11.0753 16.7335 13.2476 14.468 14.8738C11.7343 16.8326 8.6377 17.4568 5.3091 17.0749C3.88316 16.9106 2.52473 16.4835 1.25066 15.8347C0.896289 15.654 0.550352 15.461 0.200195 15.2721C0.200195 15.2434 0.200195 15.2187 0.200195 15.19C0.436445 15.2105 0.672695 15.2475 0.913164 15.2557C2.25051 15.2844 3.54566 15.0709 4.77332 14.5535C5.38082 14.2948 5.95879 13.9868 6.49035 13.5967C6.52832 13.5679 6.59582 13.5515 6.58316 13.4981C6.56629 13.4324 6.49035 13.4529 6.43973 13.4447C6.31316 13.4324 6.1866 13.4242 6.06426 13.3995C4.42738 13.0751 3.30098 12.1553 2.67238 10.6523C2.58801 10.447 2.6091 10.4223 2.82848 10.4552C3.36848 10.5291 3.90426 10.4963 4.46535 10.3731C4.39785 10.3525 4.35988 10.3361 4.3177 10.3238C2.44879 9.831 1.11145 8.1843 1.03973 6.29531C1.03129 6.08588 1.06504 6.06124 1.26332 6.15158C1.30973 6.17212 1.35191 6.19265 1.3941 6.21318C1.87504 6.42261 2.37707 6.55402 2.90863 6.57866C2.9002 6.51706 2.85379 6.50064 2.82426 6.476C1.1241 5.18245 0.600977 3.00601 1.54598 1.11292C1.69363 0.813144 1.69785 0.813144 1.92566 1.06775C3.54566 2.89924 5.54535 4.16404 7.92473 4.85804C8.78113 5.10853 9.65863 5.26458 10.553 5.31797C10.7682 5.33029 10.8019 5.28511 10.7639 5.07568C10.6669 4.55005 10.6711 4.02442 10.7977 3.507C11.1943 1.87673 12.1983 0.74744 13.8394 0.254661C15.4763 -0.238118 16.9655 0.119147 18.2354 1.25254C18.3577 1.36341 18.4632 1.39627 18.6277 1.35931C19.463 1.17041 20.2519 0.878848 20.9986 0.472305C21.0577 0.439453 21.1252 0.365536 21.1843 0.423027C21.2391 0.472305 21.1758 0.550328 21.1547 0.611926C20.986 1.06775 20.7329 1.47429 20.4164 1.84798C20.138 2.18061 19.8005 2.45163 19.4166 2.72266C19.771 2.6816 20.0747 2.61179 20.3827 2.54608C20.8679 2.4311 21.3235 2.22988 21.796 2.08616Z" fill="currentColor"></path></svg></span></a></li><li><a href="https://www.youtube.com/channel/UCXvaP_lqhMZURUBYhw8S2fw" data-id="youtube-btn"><span class="cursor-pointer bg-icon w-9 h-9 rounded-full text-white flex items-center justify-center"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M11.0406 3.81166C11.8036 3.81166 12.5666 3.80043 13.3296 3.8154C14.3801 3.8341 15.4269 3.86403 16.4774 3.92014C17.292 3.96503 18.1066 4.02114 18.9139 4.13337C19.7285 4.24559 20.4104 4.58601 20.9043 5.27432C21.1586 5.6297 21.3061 6.03371 21.3946 6.46017C21.5604 7.24948 21.6305 8.05002 21.6931 8.8543C21.789 10.085 21.7963 11.3195 21.7668 12.554C21.7374 13.7585 21.6599 14.9631 21.4498 16.1527C21.3614 16.6427 21.2361 17.1215 20.9485 17.5405C20.4952 18.1989 19.8685 18.5767 19.0945 18.7114C18.2541 18.8573 17.4026 18.9134 16.5511 18.962C15.5559 19.0181 14.5607 19.0518 13.5655 19.0743C11.9141 19.1117 10.2628 19.1004 8.61148 19.0855C7.83742 19.078 7.05967 19.0481 6.28561 19.0107C5.2093 18.962 4.13667 18.9097 3.07141 18.7451C2.58486 18.6702 2.1278 18.5281 1.72234 18.2363C1.13626 17.8136 0.782404 17.2375 0.623906 16.5267C0.461721 15.7973 0.388001 15.0566 0.321653 14.3122C0.207387 12.9954 0.196329 11.6749 0.225817 10.3544C0.255305 9.14982 0.329025 7.94528 0.542813 6.75569C0.631278 6.25442 0.760288 5.76811 1.05517 5.3454C1.50855 4.69449 2.13517 4.32041 2.90554 4.18574C3.74595 4.03985 4.59742 3.98374 5.44889 3.9351C6.44042 3.88273 7.42827 3.84907 8.41981 3.82288C9.29339 3.80418 10.167 3.8154 11.0406 3.81166ZM8.85108 11.4392C8.85108 12.4492 8.85108 13.4593 8.85108 14.473C8.85108 14.6788 8.85108 14.6788 9.0317 14.574C10.7567 13.5715 12.4818 12.5689 14.2032 11.5664C14.2585 11.5327 14.358 11.5215 14.3506 11.4504C14.3469 11.3868 14.2511 11.3681 14.1958 11.3345C12.4634 10.317 10.7309 9.3032 8.99852 8.28943C8.85845 8.20714 8.85108 8.21088 8.85108 8.38295C8.8474 9.40046 8.85108 10.4217 8.85108 11.4392Z" fill="currentColor"></path></svg></span></a></li></ul></div><div class="text-white text-xs mt-2 md:mt-0 md:text-lg font-semibold flex justify-center">© Good Doctor, 2020. All Rights Reserved</div></div></div></div></footer></div><div class="fixed -right-4 md:right-5 bottom-0 md:bottom-5 z-40"><a href="https://gooddoctor.onelink.me/Cmiw/webfloating"><div class="transform scale-75 md:scale-100"><img src="/images/register-doctor.png" alt="register-docotr" width="245" height="100"/></div></a></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"post":{"id":"cG9zdDoyMDkxMg==","status":"publish","title":"9 Obat Asam Urat Alami yang Bisa Ditemukan di Dapur, Nomor 7 Paling Mudah!","excerpt":"\u003cp\u003eAsam urat yang terjadi karena adanya pengendapan zat purin bisa diatasi dengan berbagai obat asam urat alami. Tanpa disadari terkadang obat alami itu dapat mudah ditemukan di dapur.\u003c/p\u003e\n","slug":"obat-asam-urat-alami","date":"2020-07-09T20:51:00","dateGmt":"2020-07-09T13:51:00","modified":"2021-01-08 09:40:37","modifiedGmt":"2021-01-08T02:40:37","databaseId":20912,"uri":"/hidup-sehat/info-sehat/obat-asam-urat-alami/","PostDetailExtraFields":{"fieldGroupName":"PostDetailExtraFields","ditinjauOleh":"dr. Debby Deriyanthi","reference":"\u003cp\u003eHealthline (2019). Diakses pada 20/06/20. \u003ca href=\"https://www.healthline.com/health/gout/home-remedies#home-treatments\"\u003eNatural Home Remedies for Gout\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eMayo Clinic (2019). Diakses pada 20/06/20. \u003ca href=\"https://www.mayoclinic.org/diseases-conditions/gout/symptoms-causes/syc-20372897\"\u003eGout\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eHolland \u0026amp; Barrett (2020). Diakses pada 20/06/20.\u003ca href=\"https://www.hollandandbarrett.com/the-health-hub/conditions/gout/natural-treatments-for-gout/\"\u003e Natural treatments for gout\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eWeb MD (2019). Diakses pada 20/06/20. \u003ca href=\"https://www.webmd.com/arthritis/gout-attacks-at-home\"\u003eHow to Treat Gout Attacks at Home\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe Gout Killer (n.d). Diakses pada 20/06/20. \u003ca href=\"https://www.thegoutkiller.com/gout-diet/berries-and-gout/\"\u003eBerries and Gout\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n"},"MostViewed":{"fieldGroupName":"MostViewed","views":null},"PostOrder":{"editorpickorder":null,"fieldGroupName":"PostOrder","ispin":null,"pinorder":null},"seo":{"opengraphSiteName":"Good Doctor | Tips Kesehatan, Chat Dokter, Beli Obat Online","opengraphDescription":"Asam urat menyebabkan rasa nyeri yang tidak tertahankan. Ketika kamu mengalaminya, ada beberapa obat asam urat alami yang bisa jadi pilihan.","opengraphTitle":"Obat Asam Urat Alami Tanpa Disadari Ada di Dapur, Ini 9 Bahannya","opengraphUrl":"http://cms.gooddoctor.co.id/hidup-sehat/info-sehat/obat-asam-urat-alami/","opengraphImage":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2020/06/obat-asam-urat-alami.jpg","mediaType":"image","mimeType":"image/jpeg","sizes":"(max-width: 300px) 100vw, 300px","title":"obat asam urat alami","uri":"/hidup-sehat/info-sehat/obat-asam-urat-alami/attachment/obat-asam-urat-alami-2/","altText":"obat asam urat alami","authorId":"dXNlcjoyOA==","caption":null,"author":{"node":{"username":"putri","name":"Putri Prima Soraya","lastName":"Soraya","firstName":"Putri Prima"}}},"title":"9 Obat Asam Urat Alami yang Bisa Ditemukan di Dapur, Nomor 7 Paling Mudah! \u0026#8211; Good Doctor | Tips Kesehatan, Chat Dokter, Beli Obat Online","metaDesc":"Asam urat menyebabkan rasa nyeri yang tidak tertahankan. Ketika kamu mengalaminya, ada beberapa obat asam urat alami yang bisa jadi pilihan.","metaKeywords":"","metaRobotsNofollow":"follow","metaRobotsNoindex":"index","opengraphAuthor":"","focuskw":"obat asam urat alami","canonical":"","breadcrumbs":[{"text":"Home","url":"http://cms.gooddoctor.co.id/"},{"text":"9 Obat Asam Urat Alami yang Bisa Ditemukan di Dapur, Nomor 7 Paling Mudah!","url":"http://cms.gooddoctor.co.id/hidup-sehat/info-sehat/obat-asam-urat-alami/"}]},"featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2020/06/obat-asam-urat-alami.jpg","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2020/06/obat-asam-urat-alami.jpg 1000w, http://cms.gooddoctor.co.id/wp-content/uploads/2020/06/obat-asam-urat-alami-300x200.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2020/06/obat-asam-urat-alami-768x512.jpg 768w","sizes":null}},"author":{"node":{"name":"Putri Prima Soraya","firstName":"Putri Prima","lastName":"Soraya","avatar":{"url":"http://2.gravatar.com/avatar/2101fb08b217b622c56a519aebe822b4?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"name":"Info Sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","slug":"info-sehat","databaseId":1823}]},"tags":{"edges":[{"node":{"name":"asam urat","uri":"/tag/asam-urat/","slug":"asam-urat","databaseId":538}},{"node":{"name":"obat asam urat","uri":"/tag/obat-asam-urat/","slug":"obat-asam-urat","databaseId":541}},{"node":{"name":"obat asam urat alami","uri":"/tag/obat-asam-urat-alami/","slug":"obat-asam-urat-alami","databaseId":3314}}]},"content":"\n\u003cp\u003eMengalami asam urat bisa sangat menyiksa, dan mengganggu mobilitas kita. Ketika asam urat mendera, selain mengatasinya dengan obat dokter, ada beberapa obat asam urat alami yang bisa kamu gunakan loh.\u003c/p\u003e\n\n\n\n\u003cp\u003eObat alami ini berasal dari tumbuhan, buah-buahan, dan juga bahan masakan yang umum kamu gunakan. Untuk lebih jelasnya, apa saja obat alami yang bisa digunakan untuk mengatasi asam urat, mari simak artikel ini hingga akhir, ya!\u003c/p\u003e\n\n\n\n\u003cp\u003eBaca Juga: \u003ca href=\"http://www.gooddoctor.co.id/tips-kesehatan/penyakit/tahi-lalat-tanda-kanker-ini-ciri-ciri-yang-patut-diwaspadai/\"\u003eTahi Lalat Berbentuk Tidak Normal? Waspadai Pertanda Kanker\u003c/a\u003e\u003c/p\u003e\n\n\n\n\u003ch2\u003eApa itu asam urat\u003c/h2\u003e\n\n\n\n\u003cp\u003eAsam urat terjadi ketika ada tumpukan limbah akibat gagalnya proses penguraian zat purin. Pada akhirnya membentuk kristal asam urat berukuran mikro yang menumpuk di ginjal dan peradangan pada persendian yang menimbulkan nyeri.\u003c/p\u003e\n\n\n\n\u003cp\u003eIni umum terjadi pada bagian jempol kaki, tetapi juga dapat memengaruhi pergelangan kaki, lutut, tangan, dan pergelangan tangan. Sendi yang terkena akan menjadi bengkak, merah, lunak saat disentuh dan hangat. Biasanya asam urat ini akan berlangsung sampai sepuluh hari.\u003c/p\u003e\n\n\n\n\u003cp\u003eKetika kamu terkena atau memiliki \u003ca href=\"http://www.gooddoctor.co.id/tips-kesehatan/kesehatan/makanan-pantangan-asam-urat-yang-harus-dihindari/\" target=\"_blank\" rel=\"noreferrer noopener\"\u003easam urat\u003c/a\u003e, ada beberapa makanan yang harus kamu hindari, seperti:\u003c/p\u003e\n\n\n\n\u003cul\u003e\u003cli\u003eKerang\u003c/li\u003e\u003cli\u003eDaging merah\u003c/li\u003e\u003cli\u003eJeroan\u003c/li\u003e\u003cli\u003eMinuman manis\u003c/li\u003e\u003cli\u003eAlkohol\u003c/li\u003e\u003cli\u003eMakanan yang tinggi kandungan ragi\u003c/li\u003e\u003c/ul\u003e\n\n\n\n\u003cp\u003eMakanan-makanan tersebut mengandung kadar purin yang tinggi.\u003c/p\u003e\n\n\n\n\u003ch2\u003eObat asam urat alami\u003c/h2\u003e\n\n\n\n\u003cp\u003eAsam urat bisa disembuhkan dengan obat-obatan dari dokter, tapi tidak ada salahnya kamu mencoba beberapa obat asam urat alami yang lebih aman dari efek samping bahan kimia. Obat alami ini juga mudah kamu buat sendiri di rumah, seperti:\u0026nbsp;\u003c/p\u003e\n\n\n\n\u003ch3\u003e1. Buah ceri\u003c/h3\u003e\n\n\n\n\u003cp\u003eMenurut sebuah \u003ca href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4974079/\"\u003esurvei\u003c/a\u003e yang dilakukan pada 2016, ceri baik itu asam, manis, merah, hitam, dalam bentuk ekstrak, sebagai jus, atau mentah adalah obat asam urat rumahan yang efektif pada banyak orang.\u003c/p\u003e\n\n\n\n\u003cp\u003eSebuah \u003ca href=\"https://www.semanticscholar.org/paper/Pilot-Studies-of-Cherry-Juice-Concentrate-for-Gout-Schlesinger/556d46fee537de00eae5afd2d428725bc30e1bea?p2df\"\u003epenelitian\u003c/a\u003e lainnya pada 2012 juga menemukan bahwa ceri dapat bekerja untuk mencegah serangan asam urat\u003c/p\u003e\n\n\n\n\u003cp\u003ePenelitian ini juga merekomendasikan kamu untuk mengonsumsi tiga porsi ceri selama dua hari untuk hasil yang efektif.\u0026nbsp;\u003c/p\u003e\n\n\n\n\u003ch2\u003e2. Jahe \u003c/h2\u003e\n\n\n\n\u003cp\u003eJahe sangat efektif untuk mengobati berbagai jenis peradangan. Satu \u003ca href=\"http://www.ijstr.org/final-print/oct2017/Effect-Of-Red-Ginger-Compress-To-Decrease-Scale-Of-Pain-Gout-Arthiris-Patients.pdf\"\u003estudi \u003c/a\u003emenemukan jahe topikal mengurangi rasa sakit yang terkait dengan asam urat.\u003c/p\u003e\n\n\n\n\u003cp\u003eUntuk menggunakan jahe dalam mengobati asam urat, caranya dengan membuat kompres air jahe. Pertama kamu harus memarut jahe yang segar, lalu campurkan dengan air panas. Setelah itu, rendam handuk ke dalam air jahe tadi, tunggu hingga air berubah menjadi dingin.\u0026nbsp;\u003c/p\u003e\n\n\n\n\u003cp\u003eSaat sudah tidak terlalu panas, kompres bagian yang sakit selama kurang lebih 15 sampai 30 menit. Lakukanlah sehari sekali. Atau cara lainnya adalah dengan membuat teh jahe dengan mencampurkan air hangat dan 2 sendok teh jahe, yang bisa kamu nikmati 3 gelas sehari.\u003c/p\u003e\n\n\n\n\u003ch3\u003e3. Minyak esensial\u003c/h3\u003e\n\n\n\n\u003cp\u003eBeberapa minyak esensial memiliki sifat antiinflamasi dan dapat menghilangkan rasa sakit dari peradangan. Ada beberapa minyak esensial yang bisa kamu gunakan untuk mengobati asam urat, seperti serai, kayu putih, kemenyan dan jahe dianggap membantu.\u003c/p\u003e\n\n\n\n\u003cp\u003eTapi, jangan menggunakan minyak esensial ini secara langsung pada bagian yang sakit, kamu harus mencampurkannya dengan air.\u003c/p\u003e\n\n\n\n\u003ch3\u003e4. Air hangat dengan cuka sari apel, jus lemon, dan kunyit\u003c/h3\u003e\n\n\n\n\u003cp\u003eRamuan satu ini telah dipercaya selama bertahun-tahun bisa mengurangi sakit asam urat. Biasanya, orang-orang membuatnya menjadi jus. Caranya, campurkan perasan lemon ke dalam air hangat, tambahkan dengan 2 sendok teh kunyit dan 1 sendok teh cuka sari apel. \u003c/p\u003e\n\n\n\n\u003cp\u003eKamu bisa menyesuaikannya sesuai selera. Minumlah dua hingga tiga kali sehari.\u0026nbsp;\u003c/p\u003e\n\n\n\n\u003ch3\u003e5. Teh jelatang\u003c/h3\u003e\n\n\n\n\u003cp\u003eTeh jelatang (Urtica dioica) adalah obat herbal untuk asam urat yang dapat mengurangi peradangan dan rasa sakit.\u003c/p\u003e\n\n\n\n\u003cp\u003eUntuk mencoba teh ini, sebagai obat asam urat alami, kamu cukup merebus 1 hingga 2 sendok teh jelatang kering dengan air dan minumlah 3 gelas per hari.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n\n\n\n\u003ch3\u003e6. Bunga dandelion\u003c/h3\u003e\n\n\n\n\u003cp\u003eDandelion baik dalam bentuk teh, ekstrak, dan suplemen bermanfaat untuk meningkatkan kesehatan hati dan \u003ca href=\"http://www.gooddoctor.co.id/tips-kesehatan/kesehatan/info-sehat/fungsi-ginjal/\"\u003eginjal\u003c/a\u003e.\u003c/p\u003e\n\n\n\n\u003cp\u003eSebuah \u003ca href=\"http://www.speronline.com/japer/Articlefile/92.pdf\"\u003epenelitian\u003c/a\u003e pada 2013 menunjukkan, dandelion menurunkan kadar asam urat pada mereka yang berisiko mengalami cedera ginjal. Tapi penelitian lebih lanjut masih perlu dilakukan.\u0026nbsp;\u003c/p\u003e\n\n\n\n\u003ch3\u003e7. Air mineral \u003c/h3\u003e\n\n\n\n\u003cp\u003eKetika badan kamu kekurangan air, kadar asam urat dalam tubuh akan otomatis naik lebih tinggi lagi. Untuk itu, penting menjaga tubuh tetap terhidrasi agar menjaga asam urat tetap normal.\u003c/p\u003e\n\n\n\n\u003cp\u003eBaca Juga: \u003ca href=\"http://www.gooddoctor.co.id/tips-kesehatan/kehamilan/momsyuk-intip-perkembangan-janin-8-bulan-dalam-kandungan/\"\u003eMoms,Yuk Intip Perkembangan Janin 8 Bulan Dalam Kandungan\u003c/a\u003e\u003c/p\u003e\n\n\n\n\u003ch3\u003e8. Kembang sepatu\u003c/h3\u003e\n\n\n\n\u003cp\u003eKembang sepatu adalah salah satu tanaman yang telah lama dijadikan obat tradisional untuk mengobati asam urat.\u003c/p\u003e\n\n\n\n\u003cp\u003eSebuah \u003ca href=\"https://www.sciencedirect.com/science/article/pii/S1756464612000084\"\u003estudi\u003c/a\u003e menunjukkan bahwa kembang sepatu dapat menurunkan kadar asam urat.\u003c/p\u003e\n\n\n\n\u003cp\u003eBaca Juga: \u003ca href=\"http://www.gooddoctor.co.id/tips-kesehatan/puasa/sumber-vitamin-c-untuk-sahur-dan-buka-puasa/\"\u003eWajib Dicatat! Ini Makanan Sumber Vitamin C Baik untuk Puasa\u003c/a\u003e\u003c/p\u003e\n\n\n\n\u003ch3\u003e9. Buah berry\u003c/h3\u003e\n\n\n\n\u003cp\u003eBuah berry terutama yang kulitnya berwarna gelap kaya anthocyanin, senyawa antioksidan kuat. \u003c/p\u003e\n\n\n\n\u003cp\u003eAnthocyanin dapat membenahi kerusakan yang diakibatkan radikal bebas dalam sel, termasuk sel-sel ginjal yang rusak. Pada saat yang sama, anthocyanin juga bertindak sebagai antiinflamasi yang kuat yang mampu meredakan rasa sakit dan pembengkakan sendi.\u003c/p\u003e\n\n\n\n\u003cp\u003eSelain dengan beberapa obat alami di atas, untuk mengobati dan mengurangi risiko asam urat, cobalah untuk mengubah gaya hidup menjadi lebih sehat. Rutin berolahraga dan istirahat yang cukup untuk menghindari gejala yang memburuk.\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cstrong\u003eJaga kesehatan Anda dan keluarga dengan konsultasi rutin bersama mitra dokter kami. Download aplikasi Good Doctor sekarang, klik \u003ca href=\"https://ulink.gooddoctor.co.id/plugin-share/?scheme=global_show_tab_home?content={\u0026quot;utm\u0026quot;:\u0026quot;website_content_mvp_launch\u0026quot;}\"\u003elink ini\u003c/a\u003e, ya!\u003c/strong\u003e\u003c/p\u003e\n"},"yoast":"\u003c!-- This site is optimized with the Yoast SEO plugin v15.0 - https://yoast.com/wordpress/plugins/seo/ --\u003e\n\u003ctitle\u003eGood Doctor | Tips Kesehatan, Chat Dokter, Beli Obat Online\u003c/title\u003e\n\u003cmeta name=\"description\" content=\"Asam urat menyebabkan rasa nyeri yang tidak tertahankan. Ketika kamu mengalaminya, ada beberapa obat asam urat alami yang bisa jadi pilihan.\" /\u003e\n\u003cmeta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" /\u003e\n\u003cmeta property=\"og:locale\" content=\"en_US\" /\u003e\n\u003cmeta property=\"og:type\" content=\"article\" /\u003e\n\u003cmeta property=\"og:title\" content=\"Obat Asam Urat Alami Tanpa Disadari Ada di Dapur, Ini 9 Bahannya\" /\u003e\n\u003cmeta property=\"og:description\" content=\"Asam urat menyebabkan rasa nyeri yang tidak tertahankan. Ketika kamu mengalaminya, ada beberapa obat asam urat alami yang bisa jadi pilihan.\" /\u003e\n\u003cmeta property=\"og:url\" content=\"http://cms.gooddoctor.co.id/hidup-sehat/info-sehat/obat-asam-urat-alami/\" /\u003e\n\u003cmeta property=\"og:site_name\" content=\"Good Doctor | Tips Kesehatan, Chat Dokter, Beli Obat Online\" /\u003e\n\u003cmeta property=\"article:published_time\" content=\"2020-07-09T13:51:00+00:00\" /\u003e\n\u003cmeta property=\"article:modified_time\" content=\"2021-01-08T02:40:37+00:00\" /\u003e\n\u003cmeta property=\"og:image\" content=\"http://cms.gooddoctor.co.id/wp-content/uploads/2020/06/obat-asam-urat-alami.jpg\" /\u003e\n\t\u003cmeta property=\"og:image:width\" content=\"1000\" /\u003e\n\t\u003cmeta property=\"og:image:height\" content=\"667\" /\u003e\n\u003cmeta name=\"twitter:card\" content=\"summary_large_image\" /\u003e\n\u003cscript type=\"application/ld+json\" class=\"yoast-schema-graph\"\u003e{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"http://cms.gooddoctor.co.id/#website\",\"url\":\"http://cms.gooddoctor.co.id/\",\"name\":\"Good Doctor | Tips Kesehatan, Chat Dokter, Beli Obat Online\",\"description\":\"Tips Kesehatan, Chat Dokter, Beli Obat Online\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"http://cms.gooddoctor.co.id/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"http://cms.gooddoctor.co.id/hidup-sehat/info-sehat/obat-asam-urat-alami/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"http://cms.gooddoctor.co.id/wp-content/uploads/2020/06/obat-asam-urat-alami.jpg\",\"width\":1000,\"height\":667,\"caption\":\"obat asam urat alami\"},{\"@type\":\"WebPage\",\"@id\":\"http://cms.gooddoctor.co.id/hidup-sehat/info-sehat/obat-asam-urat-alami/#webpage\",\"url\":\"http://cms.gooddoctor.co.id/hidup-sehat/info-sehat/obat-asam-urat-alami/\",\"name\":\"Obat Asam Urat Alami Tanpa Disadari Ada di Dapur, Ini 9 Bahannya\",\"isPartOf\":{\"@id\":\"http://cms.gooddoctor.co.id/#website\"},\"primaryImageOfPage\":{\"@id\":\"http://cms.gooddoctor.co.id/hidup-sehat/info-sehat/obat-asam-urat-alami/#primaryimage\"},\"datePublished\":\"2020-07-09T13:51:00+00:00\",\"dateModified\":\"2021-01-08T02:40:37+00:00\",\"author\":{\"@id\":\"http://cms.gooddoctor.co.id/#/schema/person/45e4b27050d97699171e040044e277e8\"},\"description\":\"Asam urat menyebabkan rasa nyeri yang tidak tertahankan. Ketika kamu mengalaminya, ada beberapa obat asam urat alami yang bisa jadi pilihan.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"http://cms.gooddoctor.co.id/hidup-sehat/info-sehat/obat-asam-urat-alami/\"]}]},{\"@type\":\"Person\",\"@id\":\"http://cms.gooddoctor.co.id/#/schema/person/45e4b27050d97699171e040044e277e8\",\"name\":\"Putri Prima Soraya\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"http://cms.gooddoctor.co.id/#personlogo\",\"inLanguage\":\"en-US\",\"url\":\"http://2.gravatar.com/avatar/2101fb08b217b622c56a519aebe822b4?s=96\u0026d=mm\u0026r=g\",\"caption\":\"Putri Prima Soraya\"}}]}\u003c/script\u003e\n\u003c!-- / Yoast SEO plugin. --\u003e","postRelative":{"pageInfo":{"endCursor":"YXJyYXljb25uZWN0aW9uOjk3ODgw","hasNextPage":false},"nodes":[{"title":"Wajib Tahu, Ini Dampak Gerhana Bulan bagi Kesehatan Manusia","excerpt":"\u003cp\u003eGerhana bulan disebut-sebut bisa memengaruhi kesehatan tubuh. Namun apakah hal tersebut benar? \u003c/p\u003e\n","slug":"wajib-tahu-ini-dampak-gerhana-bulan-bagi-kesehatan-manusia","date":"2021-05-29T21:10:00","id":"cG9zdDo5ODQwNw==","uri":"/hidup-sehat/info-sehat/wajib-tahu-ini-dampak-gerhana-bulan-bagi-kesehatan-manusia/","featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_369590351-300x200.jpg","sizes":"(max-width: 300px) 100vw, 300px","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_369590351-300x200.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_369590351-768x512.jpg 768w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_369590351.jpg 1000w","status":"inherit"}},"author":{"node":{"name":"Arianti K","firstName":"Arianti","lastName":"Khairina","avatar":{"url":"http://0.gravatar.com/avatar/69081a3f7d132f150d887650bf2cf9b9?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"id":"dGVybToxODIz","name":"Info Sehat","slug":"info-sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","databaseId":1823}]}},{"title":"Selain Pemeriksaan Kehamilan, Ini Fungsi Lain dari USG","excerpt":"\u003cp\u003eApa saja fungsi USG selain untuk pemeriksaan kehamilan? Yuk, simak di sini.\u003c/p\u003e\n","slug":"fungsi-usg","date":"2021-05-29T09:28:00","id":"cG9zdDo5Nzg5Nw==","uri":"/hidup-sehat/info-sehat/fungsi-usg/","featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/fungsi-USG-300x200.jpg","sizes":"(max-width: 300px) 100vw, 300px","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/fungsi-USG-300x200.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/fungsi-USG-768x512.jpg 768w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/fungsi-USG.jpg 1000w","status":"inherit"}},"author":{"node":{"name":"Nik Nik Fadlah","firstName":"Nik Nik","lastName":"Fadlah","avatar":{"url":"http://0.gravatar.com/avatar/c2922820338bfc3e1ade017d001225d3?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"id":"dGVybToxODIz","name":"Info Sehat","slug":"info-sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","databaseId":1823}]}},{"title":"6 Manfaat Buah Matoa untuk Tubuh: Baik untuk Kulit dan Jantung","excerpt":"\u003cp\u003eAda banyak manfaat buah matoa yang bisa kamu dapatkan, mulai untuk kesehatan kulit hingga mencegah penyakit jantung. Berikut ulasannya!\u003c/p\u003e\n","slug":"manfaat-buah-matoa","date":"2021-05-28T20:20:21","id":"cG9zdDo2NTk3NQ==","uri":"/hidup-sehat/info-sehat/manfaat-buah-matoa/","featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/01/manfaat-buah-matoa-300x200.jpg","sizes":"(max-width: 300px) 100vw, 300px","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/01/manfaat-buah-matoa-300x200.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/01/manfaat-buah-matoa-768x512.jpg 768w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/01/manfaat-buah-matoa.jpg 1000w","status":"inherit"}},"author":{"node":{"name":"Muhammad Hanif S.","firstName":"Muhammad","lastName":"Hanif S.","avatar":{"url":"http://1.gravatar.com/avatar/4b7aaa2f6184bc137309c8aa0837039b?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"id":"dGVybToxODIz","name":"Info Sehat","slug":"info-sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","databaseId":1823}]}},{"title":"Infeksi Jamur Hitam Belum Mereda, Kini Muncul Varian Putih dan Kuning di India","excerpt":"\u003cp\u003eBelum selesai wabah infeksi jamur hitam di India, kini muncul infeksi jamur putih dan jamur kuning. \u003c/p\u003e\n","slug":"infeksi-jamur-hitam-belum-mereda-kini-muncul-varian-putih-dan-kuning-di-india","date":"2021-05-28T18:10:50","id":"cG9zdDo5ODMzOA==","uri":"/hidup-sehat/info-sehat/infeksi-jamur-hitam-belum-mereda-kini-muncul-varian-putih-dan-kuning-di-india/","featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/infeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india-300x200.jpg","sizes":"(max-width: 300px) 100vw, 300px","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/infeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india-300x200.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/infeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india-768x512.jpg 768w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/infeksi-jamur-hitam-jamur-putih-dan-jamur-kuning-di-india.jpg 1000w","status":"inherit"}},"author":{"node":{"name":"Nanda Hadiyanti","firstName":"Nanda","lastName":"Hadiyanti","avatar":{"url":"http://0.gravatar.com/avatar/964197c7aa963690a5bd62a76873fffe?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"id":"dGVybToxODIz","name":"Info Sehat","slug":"info-sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","databaseId":1823}]}},{"title":"Badan Lemas Tak Bertenaga? Ketahui, Ini Beberapa Penyebab Umumnya!","excerpt":"\u003cp\u003eBadan lemas tak bertenaga dapat terjadi akibat berbagai faktor penyebab. Lalu, apa saja penyebab badan lemas tak bertenaga?\u003c/p\u003e\n","slug":"badan-lemas-tak-bertenaga","date":"2021-05-27T22:00:00","id":"cG9zdDo5ODA4MA==","uri":"/hidup-sehat/info-sehat/badan-lemas-tak-bertenaga/","featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/badan-lemas-tak-bertenaga-300x200.jpg","sizes":"(max-width: 300px) 100vw, 300px","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/badan-lemas-tak-bertenaga-300x200.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/badan-lemas-tak-bertenaga-768x512.jpg 768w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/badan-lemas-tak-bertenaga.jpg 1024w","status":"inherit"}},"author":{"node":{"name":"Ajeng Dwiri Banyu","firstName":"Ajeng Dwiri","lastName":"Banyu","avatar":{"url":"http://2.gravatar.com/avatar/ef7f84210f32fe17c1c4552918cdf88d?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"id":"dGVybToxODIz","name":"Info Sehat","slug":"info-sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","databaseId":1823}]}},{"title":"Kulit Tiba-tiba Melepuh? Ini 15 Penyebab dan Cara Mengatasinya!","excerpt":"\u003cp\u003eKulit melepuh bisa secara tiba-tiba bisa terjadi pada siapa saja. Berikut ini deretan yang menyebabkan kulit tiba-tiba melepuh. \u003c/p\u003e\n","slug":"kulit-tiba-tiba-melepuh","date":"2021-05-27T12:12:00","id":"cG9zdDo2ODk5Nw==","uri":"/hidup-sehat/info-sehat/kulit-tiba-tiba-melepuh/","featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_1082260460-1-300x200.jpg","sizes":"(max-width: 300px) 100vw, 300px","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_1082260460-1-300x200.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_1082260460-1-768x512.jpg 768w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_1082260460-1.jpg 1000w","status":"inherit"}},"author":{"node":{"name":"Arianti K","firstName":"Arianti","lastName":"Khairina","avatar":{"url":"http://0.gravatar.com/avatar/69081a3f7d132f150d887650bf2cf9b9?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"id":"dGVybToxODIz","name":"Info Sehat","slug":"info-sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","databaseId":1823}]}},{"title":"Pemain Sepak Bola Nasional Tidak Mengakui Anak dan Minta Tes DNA, Simak Begini Prosedurnya!","excerpt":"\u003cp\u003eTes DNA diperlukan untuk membantu mengidentifikasi garis keturunan genetik. Lalu, bagaimana prosedur melakukan tes DNA yang tepat?\u003c/p\u003e\n","slug":"pemain-sepak-bola-nasional-tidak-mengakui-anak-dan-minta-tes-dna-simak-begini-prosedurnya","date":"2021-05-26T21:30:11","id":"cG9zdDo5ODA4OA==","uri":"/hidup-sehat/info-sehat/pemain-sepak-bola-nasional-tidak-mengakui-anak-dan-minta-tes-dna-simak-begini-prosedurnya/","featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/tes-DNA-300x180.jpg","sizes":"(max-width: 300px) 100vw, 300px","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/tes-DNA-300x180.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/tes-DNA-768x460.jpg 768w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/tes-DNA.jpg 1024w","status":"inherit"}},"author":{"node":{"name":"Ajeng Dwiri Banyu","firstName":"Ajeng Dwiri","lastName":"Banyu","avatar":{"url":"http://2.gravatar.com/avatar/ef7f84210f32fe17c1c4552918cdf88d?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"id":"dGVybToxODIz","name":"Info Sehat","slug":"info-sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","databaseId":1823}]}},{"title":"6 Penyebab Puting Sakit saat Disentuh, Apakah Berbahaya?","excerpt":"\u003cp\u003eCari tahu penyebab puting sakit saat disentuh agar pengobatannya bisa tepat dan efektif maksimal.\u003c/p\u003e\n","slug":"penyebab-puting-sakit-saat-disentuh","date":"2021-05-26T10:55:00","id":"cG9zdDo5NjU2MQ==","uri":"/hidup-sehat/info-sehat/penyebab-puting-sakit-saat-disentuh/","featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_1508447651-1-300x184.jpg","sizes":"(max-width: 300px) 100vw, 300px","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_1508447651-1-300x184.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_1508447651-1-768x472.jpg 768w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/shutterstock_1508447651-1.jpg 785w","status":"inherit"}},"author":{"node":{"name":"Dewi Nurfitriyana","firstName":"Dewi","lastName":"Nurfitriyana","avatar":{"url":"http://0.gravatar.com/avatar/6057ed23ece0452b497f04cbbdbe8890?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"id":"dGVybToxODIz","name":"Info Sehat","slug":"info-sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","databaseId":1823}]}},{"title":"Benarkah Yoga Mata  Ampuh Bikin Mata Sehat?","excerpt":"\u003cp\u003eYoga mata disebut bisa pertahankan kualitas penglihatan. Benarkah?\u003c/p\u003e\n","slug":"benarkah-yoga-mata-ampuh-bikin-mata-sehat","date":"2021-05-26T04:26:00","id":"cG9zdDo5Nzg4NQ==","uri":"/hidup-sehat/info-sehat/benarkah-yoga-mata-ampuh-bikin-mata-sehat/","featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/yoga-mata-300x200.jpg","sizes":"(max-width: 300px) 100vw, 300px","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/yoga-mata-300x200.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/yoga-mata-768x512.jpg 768w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/yoga-mata.jpg 1000w","status":"inherit"}},"author":{"node":{"name":"Richaldo Hariandja","firstName":"Richaldo","lastName":"Hariandja","avatar":{"url":"http://2.gravatar.com/avatar/841e336558bcc2ce0ee09d79ed95e0bf?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"id":"dGVybToxODIz","name":"Info Sehat","slug":"info-sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","databaseId":1823}]}},{"title":"Mengenal Black Fungus, Infeksi Jamur yang Serang Pasien COVID-19 di India","excerpt":"\u003cp\u003eKasus infeksi \u0026#8220;black fungus\u0026#8221; di India melonjak di tengah gelombang kedua COVID-19 dan sebabkan pasien harus kehilangan matanya. Kenapa? Ini Ulasannya!\u003c/p\u003e\n","slug":"mengenal-black-fungus-infeksi-jamur-yang-serang-pasien-covid-19-di-india","date":"2021-05-25T17:03:11","id":"cG9zdDo5Nzg4MA==","uri":"/hidup-sehat/info-sehat/mengenal-black-fungus-infeksi-jamur-yang-serang-pasien-covid-19-di-india/","featuredImage":{"node":{"sourceUrl":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/apa-itu-black-fungus-covid-19-300x200.jpg","sizes":"(max-width: 300px) 100vw, 300px","srcSet":"http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/apa-itu-black-fungus-covid-19-300x200.jpg 300w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/apa-itu-black-fungus-covid-19-768x512.jpg 768w, http://cms.gooddoctor.co.id/wp-content/uploads/2021/05/apa-itu-black-fungus-covid-19.jpg 1000w","status":"inherit"}},"author":{"node":{"name":"Fitri Chaeroni","firstName":"Fitri","lastName":"Chaeroni","avatar":{"url":"http://0.gravatar.com/avatar/fbafc111de1635b4972397904788070b?s=96\u0026d=mm\u0026r=g"}}},"categories":{"nodes":[{"id":"dGVybToxODIz","name":"Info Sehat","slug":"info-sehat","uri":"/kategori-tips-kesehatan/hidup-sehat/info-sehat/","databaseId":1823}]}}]},"menu":{"id":0,"name":"root","slug":"root","children":[{"id":9001,"name":"Produk Kami","slug":"produk-kami","children":[{"id":0,"name":"GrabHealth","slug":"","url":"/produk-kami/grabhealth/#section1"},{"id":1,"name":"GoodDoctor","slug":"","url":"/produk-kami/gooddoctor/#section1"},{"id":2,"name":"Employee Healthcare","slug":"","url":"/produk-kami/employee-healthcare"}]},{"id":9001,"name":"Hamil Sehat","slug":"hamil-sehat","children":[{"id":8,"name":"Kehamilan","slug":"kehamilan","children":null},{"id":8999,"name":"Melahirkan","slug":"melahirkan","children":null},{"id":9000,"name":"Perkembangan Janin","slug":"perkembangan-janin","children":null},{"id":0,"name":"Lihat Selengkapnya","slug":"/tips-dan-artikel-kesehatan/hamil-sehat/","url":"/tips-dan-artikel-kesehatan/hamil-sehat/"}]},{"id":4780,"name":"Hidup Sehat","slug":"hidup-sehat","children":[{"id":27,"name":"Covid-19","slug":"covid-19","children":null},{"id":32,"name":"Diet dan Nutrisi","slug":"nutrisi","children":null},{"id":1823,"name":"Info Sehat","slug":"info-sehat","children":null},{"id":450,"name":"Kamus Obat","slug":"obat","children":null},{"id":9,"name":"Kamus Penyakit","slug":"penyakit","children":null},{"id":1822,"name":"Kesehatan Mental","slug":"mental","children":null},{"id":1820,"name":"Kesehatan Pria","slug":"pria","children":null},{"id":1818,"name":"Kesehatan Seksual","slug":"seks","children":null},{"id":1819,"name":"Kesehatan Wanita","slug":"wanita","children":null},{"id":12,"name":"Kulit \u0026amp; Perawatan Tubuh","slug":"kulit","children":null},{"id":1821,"name":"Olahraga","slug":"olahraga","children":null},{"id":147,"name":"Puasa","slug":"puasa","children":null},{"id":0,"name":"Lihat Selengkapnya","slug":"/tips-dan-artikel-kesehatan/hidup-sehat/","url":"/tips-dan-artikel-kesehatan/hidup-sehat/"}]},{"id":11,"name":"Dunia Parenting","slug":"parenting","children":[{"id":1826,"name":"Gizi Anak","slug":"gizi-anak","children":null},{"id":1827,"name":"Info Parenting","slug":"info-parenting","children":null},{"id":1825,"name":"Kesehatan Anak","slug":"kesehatan-anak","children":null},{"id":1824,"name":"Menyusui","slug":"menyusui","children":null},{"id":0,"name":"Lihat Selengkapnya","slug":"/tips-dan-artikel-kesehatan/parenting/","url":"/tips-dan-artikel-kesehatan/parenting/"}]},{"id":9002,"name":"Penyakit","slug":"penyakit-kronis","children":[{"id":9006,"name":"Diabetes","slug":"diabetes","children":null},{"id":9008,"name":"Hipertensi","slug":"hipertensi","children":null},{"id":9005,"name":"Kanker Lain","slug":"kanker-lain","children":null},{"id":9004,"name":"Kanker Paru","slug":"kanker-paru","children":null},{"id":9003,"name":"Kanker Payudara","slug":"kanker-payudara","children":null},{"id":9007,"name":"Penyakit Jantung","slug":"penyakit-jantung","children":null},{"id":0,"name":"Lihat Selengkapnya","slug":"/tips-dan-artikel-kesehatan/penyakit-kronis/","url":"/tips-dan-artikel-kesehatan/penyakit-kronis/"}]}]}},"__N_SSG":true},"page":"/[category]/[...uri]","query":{"category":"hidup-sehat","uri":["info-sehat","obat-asam-urat-alami"]},"buildId":"dBHi3-p73iq1XSU6O-kpi","isFallback":false,"gsp":true,"customServer":true}</script><script nomodule="" src="/_next/static/chunks/polyfills-8683bd742a84c1edd48c.js"></script><script src="/_next/static/chunks/webpack-47d7d44e44865af625fb.js" async=""></script><script src="/_next/static/chunks/framework-690ec791c307d38a86d1.js" async=""></script><script src="/_next/static/chunks/597-18fbe31f7b38a0d61bf5.js" async=""></script><script src="/_next/static/chunks/778-4d6a28a8769244d31b1e.js" async=""></script><script src="/_next/static/chunks/main-9ca82ec4d4aca520c43d.js" async=""></script><script src="/_next/static/chunks/pages/_app-2ebae39101e751524bcc.js" async=""></script><script src="/_next/static/chunks/29107295-f332e28301661baf2b9d.js" async=""></script><script src="/_next/static/chunks/680-3019c907012d122a0110.js" async=""></script><script src="/_next/static/chunks/962-61643f9dba5bb641dd7a.js" async=""></script><script src="/_next/static/chunks/522-59915542e28638f8a552.js" async=""></script><script src="/_next/static/chunks/786-e1518b15c9a9338644ef.js" async=""></script><script src="/_next/static/chunks/362-b8d5f65b0dded14a971e.js" async=""></script><script src="/_next/static/chunks/pages/%5Bcategory%5D/%5B...uri%5D-b15727355a1600d50a56.js" async=""></script><script src="/_next/static/dBHi3-p73iq1XSU6O-kpi/_buildManifest.js" async=""></script><script src="/_next/static/dBHi3-p73iq1XSU6O-kpi/_ssgManifest.js" async=""></script></body></html>
+<h2><strong>Apa Saja Gejala Asam Urat?</strong></h2>
+<p><span style="font-weight: 400;">Penyakit asam urat bisa sulit untuk didiagnosis karena gejalanya mirip dengan gangguan kesehatan lainnya. Kamu mungkin akan disarankan untuk melakukan pemeriksaan darah oleh dokter. Hal ini untuk mengetahui kadar asam urat dalam darah.&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Selain itu, dokter juga akan menanyakan seputar gejala yang dirasakan. Nah, gejala asam urat ini bisa muncul secara tiba-tiba dan kapan saja. Gejala yang biasanya muncul meliputi:</span></p>
+<ul>
+<li style="font-weight: 400;"><strong>Bengkak yang dibarengi dengan nyeri pada sendi.</strong><span style="font-weight: 400;"> Nyeri dan pembengkakan tersebut bisa berlangsung selama berjam-jam dan bisa saja terasa semakin </span><a href="https://www.guesehat.com/mengatasi-nyeri-sendi-akibat-asam-urat-saat-mudik-lebaran" target="_blank"><span style="font-weight: 400;">nyeri</span></a><span style="font-weight: 400;">.&nbsp;</span>&nbsp;</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Pada sendi yang nyeri dan bengkak, warna kulit mungkin saja berubah menjadi merah.</strong><span style="font-weight: 400;"> Tanda tersebut menunjukkan bahwa sendi mengalami&nbsp;peradangan.</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Kemampuan bergerak menjadi terbatas akibat nyeri di persendian. </strong><span style="font-weight: 400;">Ini juga bisa menjadi salah satu gejala asam urat.</span></li>
+</ul>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h5><strong><em>Baca juga: </em></strong><a href="https://www.guesehat.com/gejala-kolesterol-tinggi-dan-asam-urat" target="_blank"><strong><em>Inilah Gejala Kolesterol Tinggi dan Asam Urat yang Perlu Diwaspadai</em></strong></a><span style="font-weight: 400;">&nbsp;</span></h5>
+<p>&nbsp;</p>
+<h2><strong>Obat Asam Urat Tradisional dan Pantangannya</strong></h2>
+<p><span style="font-weight: 400;">Jika Kamu atau kerabat Geng Sehat memiliki penyakit asam urat, maka tidak perlu khawatir karena terdapat beberapa cara yang bisa dilakukan untuk mencegah asam urat dan meredakan gejala yang dirasakan. Ada 2 langkah utama yang bisa dilakukan untuk meredakan gejala dan mencegah asam urat, yaitu:</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h3><strong>1. Terapi Farmakologi</strong></h3>
+<p><span style="font-weight: 400;">Untuk mengobati asam urat secara farmakologi, dapat dilakukan dengan mengonsumsi obat golongan NSAID, kolkisin, dan kortikosteroid saat gejala asam urat menyerang. Tujuan dari pengobatan ini adalah untuk mengurangi rasa nyeri dari asam urat dan mencegah gejala berulang kembali dan mencegah komplikasi.&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Ada obat-obatan lainnya yang bisa digunakan untuk menurunkan kadar asam urat, yaitu allopurinol. Obat ini akan membantu tubuh untuk mengurangi kadar asam urat dengan cara menghambat enzim&nbsp; yang bertugas untuk membentuk asam urat.&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Pilihan obat lainnya ialah probenecid yang akan menurunkan kadar </span><a href="https://www.guesehat.com/apa-yang-boleh-dan-tidak-boleh-dikonsumsi-penderita-asam-urat" target="_blank"><span style="font-weight: 400;">asam urat</span></a><span style="font-weight: 400;"> dengan cara meningkatkan kemampuan ginjal dengan membuangnya melalui urine ataupun keringat.&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h3><strong>2.&nbsp;Terapi Non-farmakologi</strong></h3>
+<p><span style="font-weight: 400;">Cara yang satu ini dilakukan tanpa melibatkan obat-obatan yang diresepkan oleh dokter. Kamu hanya perlu mengontrol pola makan dan mengatur pola hidup, seperti dengan berolahraga dan mengurangi kebiasaan merokok. Lantas, apa saja sih obat asam urat tradisional dan pantangannya?&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Jika Kamu berisiko memiliki penyakit asam urat, hindari makanan dengan purin yang tinggi. Oleh karena itu, berikut obat asam urat tradisional dan pantangannya yang perlu Kamu ketahui!</span></p>
+<div class="gpt-ads-7" id='div-gpt-ad-8489992-6'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-8489992-6');});</script>
+</div>
+</p>
+<ul>
+<li style="font-weight: 400;"><strong>Jahe.</strong><span style="font-weight: 400;"> Jahe adalah salah satu tanaman yang sering kali dijadikan obat untuk mengatasi peradangan. Pada sebuah penelitian, jahe yang telah diolah sebagai salep atau oles dapat meredakan rasa nyeri akibat asam urat.&nbsp;</span>&nbsp;</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Campuran air hangat, sari cuka apel, lemon, dan kunyit.</strong><span style="font-weight: 400;"> Campuran tersebut diyakini dapat meredakan gejala nyeri akibat asam urat. Kamu cukup mencampurkan air hangat dengan perasan lemon, 1 sendok teh sari cuka apel dan 2 sendok teh kunyit bubuk.</span>&nbsp;</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Apel. </strong><span style="font-weight: 400;">Apel mengandung malic acid yang diyakini dapat menurunkan kadar asam urat. Kamu disarankan hanya mengonsumsi satu apel per hari untuk menghindari kadar gula darah yang meningkat.&nbsp;</span>&nbsp;</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Seledri.</strong><span style="font-weight: 400;"> Penelitian yang menguji seledri sebagai obat untuk </span><a href="https://www.guesehat.com/kamu-asam-urat-atau-rematik-kenali-perbedaannya-1" target="_blank"><span style="font-weight: 400;">asam urat</span></a><span style="font-weight: 400;"> memang belum banyak dilakukan. Namun, seledri diyakini dapat mengurangi peradangan yang merupakan salah satu gejala dari asam urat.&nbsp;</span>&nbsp;</li>
+</ul>
+<ul>
+<li><strong><strong>Ekstrak daun binahong. </strong><span style="font-weight: 400;">Berdasarkan penelitian yang dilakukan Universitas Lampung pada 2014, ekstrak daun binahong efektif berperan sebagai antiinflamasi atau antiperadangan dengan dosis 50,4 mg/200 mgBB. Namun, penelitian tersebut baru diuji pada hewan.</span></strong>&nbsp;</li>
+</ul>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Meski obat-obatan tradisional di atas diyakini dapat menurunkan kadar asam urat ataupun meredakan gejala, Kamu tentu tetap harus berkonsultasi pada dokter untuk pengobatan terbaik. Perlu penelitian lebih lanjut mengenai efektivitas obat tradisional tersebut disertai dengan pengaruh jangka panjangnya.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Selain itu, beberapa pantangan makanan bagi Kamu yang memiliki penyakit asam urat, yaitu:</span></p>
+<ul>
+<li style="font-weight: 400;"><strong>Semua organ daging</strong><span style="font-weight: 400;">, seperti hati, ginjal, dan otak.&nbsp;</span></li>
+<li style="font-weight: 400;"><strong>Ikan tertentu</strong><span style="font-weight: 400;">, seperti tuna, sarden, mackerel, teri, dan banyak lagi.&nbsp;</span></li>
+<li style="font-weight: 400;"><strong>Makanan laut</strong><span style="font-weight: 400;">, seperti kerang, kepiting, udang, dan telur.&nbsp;</span></li>
+<li style="font-weight: 400;"><strong>Minuman manis</strong><span style="font-weight: 400;">, seperti jus buah dengan tambahan gula berlebihan, serta soda yang menis.&nbsp;</span></li>
+<li style="font-weight: 400;"><strong>Makanan yang tinggi fruktosa</strong><span style="font-weight: 400;">.</span></li>
+<li style="font-weight: 400;"><strong>Minuman beralkohol</strong><span style="font-weight: 400;">, seperti bir. Penelitian terbaru menunjukkan bahwa mengonsumsi bir secara berlebihan dapa meningkatkan risiko asam urat, terutama pada pria.&nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h5><strong><em>Baca juga: </em></strong><a href="https://www.guesehat.com/sering-salah-kira-ini-perbedaan-asam-urat-dan-rematik" target="_blank"><strong><em>Sering Salah Kira, Ini Bedanya Asam Urat dan Rematik</em></strong></a><span style="font-weight: 400;">&nbsp;</span></h5>
+<p>&nbsp;</p>
+<h2><strong>Bagaimana Mencegah Asam Urat?</strong></h2>
+<p><span style="font-weight: 400;">Sekarang, Kamu tahu kan apa saja obat asam tradisional dan pantangannya? Agar tidak terserang asam urat secara tiba-tiba, yuk lakukan perubahan gaya hidup serta pencegahan berikut ini Gengs!</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h3><strong>1. Rutin Berolahraga</strong></h3>
+<p><span style="font-weight: 400;">Olahraga secara teratur adalah salah satu langkah untuk mencegah serangan asam urat. Olahraga secara teratur tidak hanya membantu Kamu mempertahankan berat badan yang sehat, tetapi juga membuat kadar asam urat tetap rendah. Dalam sebuah penelitian, peserta yang berlari lebih dari 8 km setiap hari memiliki risiko 50% lebih rendah terkena asam urat dan baik untuk menjaga </span><a href="https://www.guesehat.com/lakukan-4-tips-ini-ingin-berhasil-menurunkan-berat-badan" target="_blank"><span style="font-weight: 400;">berat badan</span></a><span style="font-weight: 400;">.&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h3><strong>2. Usahakan untuk Tetap Terhidrasi</strong></h3>
+<p><span style="font-weight: 400;">Asupan air yang cukup membantu tubuh mengeluarkan asam urat berlebih pada darah dan membuangnya melalui urine. Kalau Kamu rutin berolahraga, jangan lupa juga untuk memperhatikan asupan air agar tetap terhidrasi dan tidak kehilangan cairan dalam tubuh.&nbsp;</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h3><strong>3. Hindari Makanan Pemicu dan Batasi Konsumsi Alkohol</strong></h3>
+<p><span style="font-weight: 400;">Seperti yang sudah disebutkan sebelumnya, Kamu perlu menghindari makanan yang bisa memicu serangan asam urat, apalagi jika Kamu memang memiliki faktor risiko. Selain itu, sebaiknya Kamu juga membatasi konsumsi alkohol yang bisa memicu peningkatan kadar asam urat.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Jika Kamu memiliki risiko terhadap penyakit asam urat, yuk mulai perhatikan makanan yang Kamu konsumsi. Selain itu, jangan lupa lakukan langkah-langkah pencegahan di atas, ya! <br/></span></p>
+<p>&nbsp;</p>
+<h5><span style="font-weight: 400;"><strong><em>Baca juga: </em></strong><a href="https://www.guesehat.com/ternyata-vitamin-c-dapat-membantu-menurunkan-asam-urat" target="_blank"><strong><em>Ternyata Vitamin C Dapat Membantu Menurunkan Asam Urat!</em></strong></a></span></h5>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><iframe src="https://www.youtube.com/embed/Jl9auhaLBRw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br/><br/><br/></span></p>
+<p>&nbsp;</p>
+<p><strong>Sumber:</strong></p>
+<p><span style="font-weight: 400;">Medical News Today. 2017. </span><a href="https://www.medicalnewstoday.com/articles/144827.php" target="_blank"><em><span style="font-weight: 400;">Everything you need to know about gout</span></em></a><em><span style="font-weight: 400;">.</span></em><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Healthline. 2017. </span><a href="https://www.healthline.com/nutrition/best-diet-for-gout#section1" target="_blank"><em><span style="font-weight: 400;">Best Diet for Gout: What to Eat, What to Avoid.</span></em></a></p>
+<p><span style="font-weight: 400;">Healthline. 2018. </span><a href="https://www.healthline.com/health/gout/home-remedies#home-treatments" target="_blank"><em><span style="font-weight: 400;">Natural Home Remedies for Gout.</span></em></a><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Jurnal Kedokteran Universitas Lampung. 2014. </span><a href="http://juke.kedokteran.unila.ac.id/index.php/juke/article/viewFile/655/659" target="_blank"><em><span style="font-weight: 400;">The Effectiveness of Binahong Leaf Extract (Anredera cordifolia (Ten. Steenis) and Mefenamic Acid as Anti Inflamation to White Male Rat Induced by Karagenini.</span></em></a></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<div id="ivsplayer01-container">
+<ivs-player id="guesehat" data-ivs-key="b434d60ef6339509349b09e580f4764d" data-ivs-spid="3001225" data-ivs-wid="fb83c1c0-5784">
+</ivs-player>
+</div>
+<script src="https://player.ivideosmart.com/ivsplayer/v4/dist/js/loader.js"></script>
+</div>
+<div class="article-tag-block">
+<ul class="article-tag-contlist clearfix">
+<li><a class="article-tag" href="javascript:;" data-persistence="true" data-keyword="Asam Urat" data-type="tag" data-id="396" data-page="1" onclick="return searchbox(this, event);">#Asam Urat</a></li><li><a class="article-tag" href="javascript:;" data-persistence="true" data-keyword="Asam Urat (Arthritis Gout)" data-type="tag" data-id="634" data-page="1" onclick="return searchbox(this, event);">#Asam Urat (Arthritis Gout)</a></li><li><a class="article-tag" href="javascript:;" data-persistence="true" data-keyword="Nyeri sendi" data-type="tag" data-id="1882" data-page="1" onclick="return searchbox(this, event);">#Nyeri sendi</a></li>	</ul>
+</div>
+</div>
+<div class="article-misc sticky-side">
+<div class="article-author author clearfix">
+<a class="author-img-cont" href="https://www.guesehat.com/taminasution"><img class="author-img" data-src="https://static.guesehat.com/static/avatar/1316526938c38c76ffc7a75e315cc538.jpg" alt="Tami Wulandari Nasution"></a>
+<div class="author-content">
+<a class="author-name" href="https://www.guesehat.com/taminasution" title="Tami Wulandari Nasution" rel="author">Tami Wulandari Nasution</a>
+<p class="author-time">16 July 2019</p>
+</div>
+</div>
+<div class="article-misc-text">GueSehat & Teman Bumil Content Writer</div>
+<div class="article-misc-button type-like"><a class="likethispage" href="#" data-provider="article" data-id="2516">Sukai Artikel Ini</a></div>
+<div class="article-share">
+<a class="article-share-button type-fb sharecontent" data-provider="facebook" href="#">Bagikan ke Facebook</a>
+<a class="article-share-button type-tw sharecontent" data-provider="twitter" href="#">Bagikan ke Twitter</a>
+<a class="article-share-button type-em sharecontent" data-provider="email" href="#">Bagikan ke Email</a>
+</div>
+<div class="gpt-ads-6" id='div-gpt-ad-8489992-2'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-8489992-2');});</script>
+</div>
+</div>
+</article>
+<section class="block">
+<div class="container">
+<h2 class="block-title">Rekomendasi Artikel</h2>
+<div class="slider-cont">
+<div class="boxstory-contlist slider4"><div class="slider4-it">
+<div class="boxstory">
+<a class="boxstory-img-cont" href="https://www.guesehat.com/kebiasaan-yang-dapat-memicu-nyeri-sendi" title="Suka Membunyikan Jari Termasuk 5 Kebiasaan yang Dapat Memicu Nyeri Sendi"><img class="boxstory-img" data-src="https://static.guesehat.com/static/article_thumb/5_kebiasaan_sehari-hari_yang_tanpa_disadari_dapat_memicu_nyeri_1607091513.jpeg" alt="Suka Membunyikan Jari Termasuk 5 Kebiasaan yang Dapat Memicu Nyeri Sendi"></a>
+<div class="boxstory-content">
+<div class="boxstory-categ-cont categ-cont">
+<a class="categ" style="background-color: #00b3e3;" href="https://www.guesehat.com/lifestyle" title="Lifestyle">Lifestyle</a>
+</div>
+<h3 class="boxstory-title"><a href="https://www.guesehat.com/kebiasaan-yang-dapat-memicu-nyeri-sendi" title="Suka Membunyikan Jari Termasuk 5 Kebiasaan yang Dapat Memicu Nyeri Sendi">Suka Membunyikan Jari Termasuk 5 Kebiasaan yang Dapat Memicu Nyeri Sendi</a></h3>
+<div class="boxstory-text">
+<p>Banyak dari kita yang mengalami masalah dengan nyeri sendi yang mengganggu atau sakit punggung yang tidak kunjung reda. Inilah kebiasaan yang dapat memciu nyeri sendi.</p>
+</div>
+<div class="boxstory-author author clearfix">
+<a class="author-img-cont" href="https://www.guesehat.com/eka-amira" title="Eka Amira" title="Eka Amira"><img class="author-img" data-src="https://static.guesehat.com/static/avatar/member_female.png" alt="Eka Amira"></a>
+<div class="author-content">
+<a class="author-name" href="https://www.guesehat.com/eka-amira" title="Eka Amira" rel="author">Eka Amira</a>
+<p class="author-time">08 December 2020</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="slider4-it">
+<div class="boxstory">
+<a class="boxstory-img-cont" href="https://www.guesehat.com/fakta-dan-mitos-asam-urat" title="Biar Tidak Salah, Cek Fakta dan Mitos Asam Urat!"><img class="boxstory-img" data-src="https://static.guesehat.com/static/article_thumb/yuk_cek_fakta_dan_mitos_tentang_asam_urat_1593102089.jpg" alt="Biar Tidak Salah, Cek Fakta dan Mitos Asam Urat!"></a>
+<div class="boxstory-content">
+<div class="boxstory-categ-cont categ-cont">
+<a class="categ" style="background-color: #48E4BE;" href="https://www.guesehat.com/medis" title="Medis">Medis</a>
+</div>
+<h3 class="boxstory-title"><a href="https://www.guesehat.com/fakta-dan-mitos-asam-urat" title="Biar Tidak Salah, Cek Fakta dan Mitos Asam Urat!">Biar Tidak Salah, Cek Fakta dan Mitos Asam Urat!</a></h3>
+<div class="boxstory-text">
+<p>Asam urat bukanlah penyakit rematik. Meskipun ada kesamaan gejalanya. Biar tidak salah lagi, cek fakta dan mitos asam urat berikut!</p>
+</div>
+<div class="boxstory-author author clearfix">
+<a class="author-img-cont" href="https://www.guesehat.com/diah-fauziah-2" title="Diah Fauziah" title="Diah Fauziah"><img class="author-img" data-src="https://static.guesehat.com/static/avatar/a48e15774152cd37e0306d1ec93c3779.jpg" alt="Diah Fauziah"></a>
+<div class="author-content">
+<a class="author-name" href="https://www.guesehat.com/diah-fauziah-2" title="Diah Fauziah" rel="author">Diah Fauziah</a>
+<p class="author-time">25 September 2020</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="slider4-it">
+<div class="boxstory">
+<a class="boxstory-img-cont" href="https://www.guesehat.com/apa-itu-pseudogout-si-asam-urat-palsu" title="Apa Itu Pseudogout Si Asam Urat Palsu, Kenali Gejalanya!"><img class="boxstory-img" data-src="https://static.guesehat.com/static/article_thumb/mengenal_pseudogout_asam_urat_palsu_1593090003.jpg" alt="Apa Itu Pseudogout Si Asam Urat Palsu, Kenali Gejalanya!"></a>
+<div class="boxstory-content">
+<div class="boxstory-categ-cont categ-cont">
+<a class="categ" style="background-color: #48E4BE;" href="https://www.guesehat.com/medis" title="Medis">Medis</a>
+</div>
+<h3 class="boxstory-title"><a href="https://www.guesehat.com/apa-itu-pseudogout-si-asam-urat-palsu" title="Apa Itu Pseudogout Si Asam Urat Palsu, Kenali Gejalanya!">Apa Itu Pseudogout Si Asam Urat Palsu, Kenali Gejalanya!</a></h3>
+<div class="boxstory-text">
+<p>  Apa itu pseudogout? Mungkin sebagian dari Kita merasa asing dengan istilah pseudogout. Pseudogout atau sering disebut sebagai asam urat palsu. Mari kenali perbedaannya!</p>
+</div>
+<div class="boxstory-author author clearfix">
+<a class="author-img-cont" href="https://www.guesehat.com/sinta-mutiara-lestari" title="Sinta Mutiara Lestari" title="Sinta Mutiara Lestari"><img class="author-img" data-src="https://static.guesehat.com/static/avatar/4f3380c9c12f429aabfa7dda40c013a8.jpg" alt="Sinta Mutiara Lestari"></a>
+<div class="author-content">
+<a class="author-name" href="https://www.guesehat.com/sinta-mutiara-lestari" title="Sinta Mutiara Lestari" rel="author">Sinta Mutiara Lestari</a>
+<p class="author-time">08 July 2020</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="slider4-it">
+<div class="boxstory">
+<a class="boxstory-img-cont" href="https://www.guesehat.com/perbedaan-sakit-pinggang-atau-encok" title="Sakit Pinggang Atau Encok, Kenali Perbedaannya!"><img class="boxstory-img" data-src="https://static.guesehat.com/static/article_thumb/apakah_encok_sama_dengan_sakit_punggung_1593465721.jpg" alt="Sakit Pinggang Atau Encok, Kenali Perbedaannya!"></a>
+<div class="boxstory-content">
+<div class="boxstory-categ-cont categ-cont">
+<a class="categ" style="background-color: #48E4BE;" href="https://www.guesehat.com/medis" title="Medis">Medis</a>
+</div>
+<h3 class="boxstory-title"><a href="https://www.guesehat.com/perbedaan-sakit-pinggang-atau-encok" title="Sakit Pinggang Atau Encok, Kenali Perbedaannya!">Sakit Pinggang Atau Encok, Kenali Perbedaannya!</a></h3>
+<div class="boxstory-text">
+<p>Apakah Kamu pernah mengalami sakit pinggang atau encok? Ada banyak penyebab sakit pinggang, dan encok di tulang belakang hanya salah satunya.</p>
+</div>
+<div class="boxstory-author author clearfix">
+<a class="author-img-cont" href="https://www.guesehat.com/diah-fauziah-2" title="Diah Fauziah" title="Diah Fauziah"><img class="author-img" data-src="https://static.guesehat.com/static/avatar/a48e15774152cd37e0306d1ec93c3779.jpg" alt="Diah Fauziah"></a>
+<div class="author-content">
+<a class="author-name" href="https://www.guesehat.com/diah-fauziah-2" title="Diah Fauziah" rel="author">Diah Fauziah</a>
+<p class="author-time">06 July 2020</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="slider4-it">
+<div class="boxstory">
+<a class="boxstory-img-cont" href="https://www.guesehat.com/makan-bayam-bikin-asam-urat-kambuh" title="Makan Bayam Bikin Asam Urat Kambuh?"><img class="boxstory-img" data-src="https://static.guesehat.com/static/article_thumb/makan_bayam_bikin_asam_urat_kambuh_1593109335.jpg" alt="Makan Bayam Bikin Asam Urat Kambuh?"></a>
+<div class="boxstory-content">
+<div class="boxstory-categ-cont categ-cont">
+<a class="categ" style="background-color: #00b3e3;" href="https://www.guesehat.com/lifestyle" title="Lifestyle">Lifestyle</a>
+</div>
+<h3 class="boxstory-title"><a href="https://www.guesehat.com/makan-bayam-bikin-asam-urat-kambuh" title="Makan Bayam Bikin Asam Urat Kambuh?">Makan Bayam Bikin Asam Urat Kambuh?</a></h3>
+<div class="boxstory-text">
+<p>Bayam merupakan sayuran berdaun hijaun yang mengandung banyak vitamin. Namun penderita asam urat kerap menghindarinya. Bayam bikin asam urat kambuh, benarkah?</p>
+</div>
+<div class="boxstory-author author clearfix">
+<a class="author-img-cont" href="https://www.guesehat.com/diah-fauziah-2" title="Diah Fauziah" title="Diah Fauziah"><img class="author-img" data-src="https://static.guesehat.com/static/avatar/a48e15774152cd37e0306d1ec93c3779.jpg" alt="Diah Fauziah"></a>
+<div class="author-content">
+<a class="author-name" href="https://www.guesehat.com/diah-fauziah-2" title="Diah Fauziah" rel="author">Diah Fauziah</a>
+<p class="author-time">26 June 2020</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="slider4-it">
+<div class="boxstory">
+<a class="boxstory-img-cont" href="https://www.guesehat.com/manfaat-kecombrang-untuk-kesehatan" title="Manfaat Kecombrang, Tanaman Ajaib Asli Indonesia"><img class="boxstory-img" data-src="https://static.guesehat.com/static/article_thumb/kecombrang_tanaman_ajaib_asli_indonesia_1581408991.jpg" alt="Manfaat Kecombrang, Tanaman Ajaib Asli Indonesia"></a>
+<div class="boxstory-content">
+<div class="boxstory-categ-cont categ-cont">
+<a class="categ" style="background-color: #48E4BE;" href="https://www.guesehat.com/medis" title="Medis">Medis</a>
+</div>
+<h3 class="boxstory-title"><a href="https://www.guesehat.com/manfaat-kecombrang-untuk-kesehatan" title="Manfaat Kecombrang, Tanaman Ajaib Asli Indonesia">Manfaat Kecombrang, Tanaman Ajaib Asli Indonesia</a></h3>
+<div class="boxstory-text">
+<p>Tahukah kamu bahwa kecombrang mengandung banyak manfaat kesehatan? Tidak hanya anti oksidan, ternyata banyak sekali manfaat kecombrang untuk kesehatan!</p>
+</div>
+<div class="boxstory-author author clearfix">
+<a class="author-img-cont" href="https://www.guesehat.com/muhammad-hafizh-muttaqin" title="Muhammad Hafizh Muttaqin" title="Muhammad Hafizh Muttaqin"><img class="author-img" data-src="https://static.guesehat.com/static/avatar/25e0bb8a089ff600dc6561a09c785d03.jpeg" alt="Muhammad Hafizh Muttaqin"></a>
+<div class="author-content">
+<a class="author-name" href="https://www.guesehat.com/muhammad-hafizh-muttaqin" title="Muhammad Hafizh Muttaqin" rel="author">Muhammad Hafizh Muttaqin</a>
+<p class="author-time">01 March 2020</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="slider4-it">
+<div class="boxstory">
+<a class="boxstory-img-cont" href="https://www.guesehat.com/cara-membuat-jus-pare-agar-tidak-pahit" title="Ini Lho Cara Membuat Jus Pare Agar Tidak Pahit"><img class="boxstory-img" data-src="https://static.guesehat.com/static/article_thumb/cara_membuat_jus_pare_agar_tidak_pahit_-_guesehatcom_1576842831.jpg" alt="Ini Lho Cara Membuat Jus Pare Agar Tidak Pahit"></a>
+<div class="boxstory-content">
+<div class="boxstory-categ-cont categ-cont">
+<a class="categ" style="background-color: #00b3e3;" href="https://www.guesehat.com/lifestyle" title="Lifestyle">Lifestyle</a>
+</div>
+<h3 class="boxstory-title"><a href="https://www.guesehat.com/cara-membuat-jus-pare-agar-tidak-pahit" title="Ini Lho Cara Membuat Jus Pare Agar Tidak Pahit">Ini Lho Cara Membuat Jus Pare Agar Tidak Pahit</a></h3>
+<div class="boxstory-text">
+<p>Meski rasanya pahit, pare memiliki banyak manfaat untuk tubuh. Nah, berikut ini cara membuat jus pare agar tidak pahit.</p>
+</div>
+<div class="boxstory-author author clearfix">
+<a class="author-img-cont" href="https://www.guesehat.com/bernadette-andika-gitawardani" title="Bernadette Andika Gitawardani" title="Bernadette Andika Gitawardani"><img class="author-img" data-src="https://static.guesehat.com/static/avatar/415916b3ac4e54b7406827c828daa199.jpg" alt="Bernadette Andika Gitawardani"></a>
+<div class="author-content">
+<a class="author-name" href="https://www.guesehat.com/bernadette-andika-gitawardani" title="Bernadette Andika Gitawardani" rel="author">Bernadette Andika Gitawardani</a>
+<p class="author-time">30 December 2019</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="slider4-it">
+<div class="boxstory">
+<a class="boxstory-img-cont" href="https://www.guesehat.com/gejala-kolesterol-tinggi-dan-asam-urat" title="Inilah Gejala Kolesterol Tinggi dan Asam Urat yang Perlu Diwaspadai"><img class="boxstory-img" data-src="https://static.guesehat.com/static/article_thumb/gejala_kolesterol_tinggi_dan_asam_urat_-_guesehat_1562555564.jpg" alt="Inilah Gejala Kolesterol Tinggi dan Asam Urat yang Perlu Diwaspadai"></a>
+<div class="boxstory-content">
+<div class="boxstory-categ-cont categ-cont">
+<a class="categ" style="background-color: #48E4BE;" href="https://www.guesehat.com/medis" title="Medis">Medis</a>
+</div>
+<h3 class="boxstory-title"><a href="https://www.guesehat.com/gejala-kolesterol-tinggi-dan-asam-urat" title="Inilah Gejala Kolesterol Tinggi dan Asam Urat yang Perlu Diwaspadai">Inilah Gejala Kolesterol Tinggi dan Asam Urat yang Perlu Diwaspadai</a></h3>
+<div class="boxstory-text">
+<p>Kadar kolesterol dan asam urat yang tinggi bisa mengkhawatirkan apalagi jika tidak dikendalikan dengan baik. Sudahkah Kamu tahu apa saja gejala kolesterol tinggi dan asam urat</p>
+</div>
+<div class="boxstory-author author clearfix">
+<a class="author-img-cont" href="https://www.guesehat.com/taminasution" title="Tami Wulandari Nasution" title="Tami Wulandari Nasution"><img class="author-img" data-src="https://static.guesehat.com/static/avatar/1316526938c38c76ffc7a75e315cc538.jpg" alt="Tami Wulandari Nasution"></a>
+<div class="author-content">
+<a class="author-name" href="https://www.guesehat.com/taminasution" title="Tami Wulandari Nasution" rel="author">Tami Wulandari Nasution</a>
+<p class="author-time">10 July 2019</p>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<a class="slider4-prev"></a>
+<a class="slider4-next"></a>
+</div>
+</div>
+</section>
+<div id="relatedgoapotik"></div>
+<script>function savecommentparent(identifier){var message=$('#messageparent').val();var rate=$('#rateparrent').val();var waiting=$('#waitingparrent').val();var prefix='article';var id='2516';if(message==''||message==null){return false;}if(prefix==''||prefix==null){return false;}if(id==''||id==null){return false;}if(typeof rate=='undefined'){rate=0;}if(typeof waiting=='undefined'){waiting=0;}$('#fullpreloading').fadeIn(500);$.ajax({type:'POST',dataType:'json',data:'message='+encodeURIComponent(message)+'&prefix='+prefix+'&id='+id+'&rate='+rate+'&waiting='+waiting,url:'https://www.guesehat.com/ajax/savecomment/parent',}).done(function(data){$('#fullpreloading').fadeOut(500);if(data.success){$('#messageparent').val('');$('#waitingparrent').val('');$('#rateparrent').val(0);$('.commentbox-form-button-rate').removeClass('rate'+rate);$('#historycomment').empty().append(data.html);pinnedcomment();}else{if(data.redirect=='stopword'){$('#messageparent').val('');alertmodal('Komentar mengandung kata yang tidak pantas');}else if(typeof data.redirect!=='undefined'){redirectlogin();}else{$('#messageparent').val('');alertmodal('Komentar gagal disimpan');}}setRateStar();return false;}).fail(function(error){$('#fullpreloading').fadeOut(500);console.log('Error! Data not validate.');});}function savecommentchild(identifier){var parentid=$(identifier).data('parentid');var message=$('#messagechild'+parentid).val();var prefix='article';var id='2516';if(message==''||message==null){return false;}if(prefix==''||prefix==null){return false;}if(parentid==''||parentid==null){return false;}if(id==''||id==null){return false;}$('#fullpreloading').fadeIn(500);$.ajax({type:'POST',dataType:'json',data:'message='+encodeURIComponent(message)+'&prefix='+prefix+'&parentid='+parentid+'&id='+id,url:'https://www.guesehat.com/ajax/savecomment/child',}).done(function(data){$('#fullpreloading').fadeOut(500);if(data.success){$('#messagechild'+parentid).val('');$('#commentboxlist'+parentid).empty().append(data.html);$('html, body').animate({scrollTop:($('#messagechild'+parentid).offset().top-200)},2000);}else{if(data.redirect=='stopword'){$('#messageparent').val('');alertmodal('Komentar mengandung kata yang tidak pantas');}else if(typeof data.redirect!=='undefined'){redirectlogin();}else{$('#messageparent').val('');alertmodal('Komentar gagal disimpan');}}setRateStar();return false;}).fail(function(error){$('#fullpreloading').fadeOut(500);console.log('Error! Data not validate.');});}function replycommentform(identifier){var id=$(identifier).data('id');var element=$('#replycommentform'+id);if(!element.hasClass('active')){element.addClass('active').attr('style','height: 200px;');}$('html, body').animate({scrollTop:(element.offset().top-200)},2000);$('#messagechild'+id).focus();}function likedcomment(identifier){var prefix='article';var id=$(identifier).data('id');if(prefix==''||prefix==null){return false;}if(id==''||id==null){return false;}$('#fullpreloading').fadeIn(500);$.ajax({type:'POST',dataType:'json',data:'prefix='+prefix+'&id='+id,url:'https://www.guesehat.com/ajax/likedcomment',}).done(function(data){$('#fullpreloading').fadeOut(500);if(data.success){$('#likedcounter'+id).text(data.html+' suka');$(identifier).addClass('liked');$(identifier).removeAttr('onclick');$(identifier).text('Menyukai');}else{if(typeof data.redirect!=='undefined'){redirectlogin();}}return false;}).fail(function(error){$('#fullpreloading').fadeOut(500);console.log('Error! Data not validate.');});}function likedcommentchild(identifier){var parentid=$(identifier).data('parentid');var prefix='article';var id=$(identifier).data('id');if(prefix==''||prefix==null){return false;}if(id==''||id==null){return false;}$('#fullpreloading').fadeIn(500);$.ajax({type:'POST',dataType:'json',data:'prefix='+prefix+'&parentid='+parentid+'&id='+id,url:'https://www.guesehat.com/ajax/likedcomment',}).done(function(data){$('#fullpreloading').fadeOut(500);if(data.success){$('#likedcounterchild'+id).text(data.html+' suka');$(identifier).addClass('liked');$(identifier).removeAttr('onclick');$(identifier).text('Menyukai');}else{if(typeof data.redirect!=='undefined'){redirectlogin();}}return false;}).fail(function(error){$('#fullpreloading').fadeOut(500);console.log('Error! Data not validate.');});}function commentnext(identifier){var totalpage=$(identifier).data('totalpage');var page=$(identifier).data('pagenext');var type=$(identifier).data('type');var id=$(identifier).data('id');if(page==''||page==null){return false;}if(type==''||type==null){return false;}if(id==''||id==null){return false;}$('#preloading').fadeIn(500);$.ajax({type:'GET',dataType:'json',data:'page='+page+'&type='+type+'&id='+id,url:'https://www.guesehat.com/ajax/commentnext',}).done(function(data){$('#preloading').fadeOut(500);if(data.success){$(identifier).data('pagenext',page+1);$('#historycomment').append(data.html);setRateStar();if(totalpage==page){$(identifier).closest('.load-button-cont').hide();}}else{$(identifier).closest('.load-button-cont').hide();}}).fail(function(error){$('#preloading').fadeOut(500);console.log('Error! Data not validate.');});}function pinnedcomment(){var prefix='article';var id='2516';$.ajax({type:'GET',dataType:'json',data:'prefix='+prefix+'&id='+id,url:'https://www.guesehat.com/ajax/pinnedcomment/best',}).done(function(data){if(data.success){$('#historycomment').prepend(data.html);}$.ajax({type:'GET',dataType:'json',data:'prefix='+prefix+'&id='+id,url:'https://www.guesehat.com/ajax/pinnedcomment/pinned',}).done(function(data){if(data.success){$('#historycomment').prepend(data.html);}}).fail(function(error){console.log('Empty');});}).fail(function(error){console.log('Empty.');});}</script>
+</div>
+</div>
+<footer>
+<div class="gpt-ads-4" id="div-gpt-ad-8489992-4">
+<div class="close_button">
+<a onclick="closeAds();" href="javascript:;">Close Ads X</a>
+</div>
+<script>googletag.cmd.push(function(){googletag.display("div-gpt-ad-8489992-4");});</script>
+</div>
+<div class="footer-block1 clearfix">
+<small class="copyright">&copy; 2021. GueSehat. All rights reserved.</small>
+<div class="social clearfix">
+<a class="social-button" href="https://www.facebook.com/guesehat/" target="_blank"><img data-src="https://static.guesehat.com/static/static/web/img/social-fb.png" alt="Facebook"></a>
+<a class="social-button" href="https://twitter.com/guesehat" target="_blank"><img data-src="https://static.guesehat.com/static/static/web/img/social-tw.png" alt="Twitter"></a>
+<a class="social-button" href="https://www.instagram.com/guesehat/" target="_blank"><img data-src="https://static.guesehat.com/static/static/web/img/social-ig.png" alt="Instagram"></a>
+<a class="social-button" href="https://www.youtube.com/channel/UCEc05MFabb7_i5boeEBkd2A" target="_blank"><img data-src="https://static.guesehat.com/static/static/web/img/social-yt.png" alt="Youtube"></a>
+</div>
+</div>
+<nav class="footer-menu">
+<ul class="footer-menu-list clearfix">
+<li><a class="footer-menu-link" href="https://www.guesehat.com/kebijakan-privasi">Kebijakan Privasi</a></li><li><a class="footer-menu-link" href="https://www.guesehat.com/untuk-dokter">Untuk Dokter</a></li><li><a class="footer-menu-link" href="https://www.guesehat.com/syarat-dan-ketentuan">Syarat dan Ketentuan</a></li><li><a class="footer-menu-link" href="https://www.guesehat.com/hubungi-kami">Hubungi Kami</a></li><li><a class="footer-menu-link" href="https://www.guesehat.com/tentang-kami">Tentang Kami</a></li>
+</ul>
+</nav>
+</footer>
+<style>@font-face{font-family:Poppins;font-weight:300;src:url(https://static.guesehat.com/static/static/web/font/Poppins-Light.ttf)}@font-face{font-family:Poppins;font-weight:400;src:url(https://static.guesehat.com/static/static/web/font/Poppins-Regular.ttf)}@font-face{font-family:Poppins;font-weight:700;src:url(https://static.guesehat.com/static/static/web/font/Poppins-Medium.ttf)}@font-face{font-family:Poppins;font-weight:900;src:url(https://static.guesehat.com/static/static/web/font/Poppins-SemiBold.ttf)}@font-face{font-family:CrimsonText;font-weight:400;src:url(https://static.guesehat.com/static/static/web/font/CrimsonText-Roman.ttf)}</style>
+<link rel="stylesheet" href="https://static.guesehat.com/static/static/web/css/style.min.css" media="all">
+<script type="text/javascript" src="https://static.guesehat.com/static/static/web/js/jquery.js"></script>
+<script type="text/javascript" src="https://static.guesehat.com/static/static/web/js/combine.js"></script>
+<script>$(document).ready(function(){var tag_list=JSON.parse('["396","634","1882"]');relatedgoapotik(tag_list);});</script>
+<div class="search-page-cont">
+<div class="search-page">
+<div class="search-head">
+<div class="close-button-search search-close-trigger"></div>
+<div class="container">
+<div class="search-head-content">
+<div class="search-head-field-cont">
+<input type="text" class="search-head-field" placeholder="Pencarian berdasarkan kata kunci ..." id="q_keyword" data-hit="0" data-persistence="false" data-type="custom" data-id="" data-page="1" oninput="return querysearch(this, event);">
+<div class="reset-field"></div>
+</div>
+<a href="javascript:void(0)" class="search-mobile-close search-close-trigger">Batal</a>
+</div>
+</div>
+</div>
+<div class="search-body">
+<div class="container">
+<div class="row">
+<div class="col-sm-12" id="searchnotfound" style="text-align: center;display: none;">Data tidak ditemukan</div>
+<div class="col-sm-3" id="query_one">
+<div class="search-body-block">
+<div class="search-body-title">
+<p>Artikel</p>
+</div>
+<div class="load-button-cont" id="query_one_wraploading">
+<a class="load-button">Mencari...</a>
+<div class="load-loading" id="query_one_loading"></div>
+</div>
+<ul class="search-body-list" id="query_one_output"></ul>
+<a id="query_one_href" class="search-body-link">Selengkapnya</a>
+</div>
+</div>
+<div class="col-sm-3" id="query_two">
+<div class="search-body-block">
+<div class="search-body-title">
+<p>Forum</p>
+</div>
+<div class="load-button-cont" id="query_two_wraploading">
+<a class="load-button">Mencari...</a>
+<div class="load-loading" id="query_two_loading"></div>
+</div>
+<ul class="search-body-list" id="query_two_output"></ul>
+<a id="query_two_href" class="search-body-link">Selengkapnya</a>
+</div>
+</div>
+<div class="col-sm-3" id="query_three">
+<div class="search-body-block">
+<div class="search-body-title">
+<p>Dokter</p>
+</div>
+<div class="load-button-cont" id="query_three_wraploading">
+<a class="load-button">Mencari...</a>
+<div class="load-loading" id="query_three_loading"></div>
+</div>
+<ul class="search-body-list" id="query_three_output"></ul>
+<a id="query_three_href" class="search-body-link">Selengkapnya</a>
+</div>
+</div>
+<div class="col-sm-3" id="query_four">
+<div class="search-body-block">
+<div class="search-body-title">
+<p>Direktori</p>
+</div>
+<div class="load-button-cont" id="query_four_wraploading">
+<a class="load-button">Mencari...</a>
+<div class="load-loading" id="query_four_loading"></div>
+</div>
+<ul class="search-body-list" id="query_four_output"></ul>
+</div>
+</div>
+<div class="col-sm-3" id="query_five">
+<div class="search-body-block">
+<div class="search-body-title">
+<p>Penyakit</p>
+</div>
+<div class="load-button-cont" id="query_five_wraploading">
+<a class="load-button">Mencari...</a>
+<div class="load-loading" id="query_five_loading"></div>
+</div>
+<ul class="search-body-list" id="query_five_output"></ul>
+<a id="query_five_href" class="search-body-link">Selengkapnya</a>
+</div>
+</div>
+<div class="col-sm-3" id="query_six">
+<div class="search-body-block">
+<div class="search-body-title">
+<p>Info Obat</p>
+</div>
+<div class="load-button-cont" id="query_six_wraploading">
+<a class="load-button">Mencari...</a>
+<div class="load-loading" id="query_six_loading"></div>
+</div>
+<ul class="search-body-list" id="query_six_output"></ul>
+<a id="query_six_href" class="search-body-link">Selengkapnya</a>
+</div>
+</div>
+<div class="col-sm-3" id="query_seven">
+<div class="search-body-block">
+<div class="search-body-title">
+<p>Pusat Kesehatan</p>
+</div>
+<div class="load-button-cont" id="query_seven_wraploading">
+<a class="load-button">Mencari...</a>
+<div class="load-loading" id="query_seven_loading"></div>
+</div>
+<ul class="search-body-list" id="query_seven_output"></ul>
+<a id="query_seven_href" class="search-body-link">Selengkapnya</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="preloader" id="fullpreloading">
+<div class="preloader__body">
+<div class="load-button-cont">
+<div class="load-button" href="javascript:;">Proses...</div>
+<div class="load-loading" style="display: block;"></div>
+</div>
+</div>
+</div>
+<style>.preloader{display:none;position:fixed;top:0;left:0;width:100%;height:100%;overflow:hidden;background:rgba(255,255,255,.8);z-index:999}.preloader__body{position:absolute;left:50%;top:50%;-moz-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}</style>
+<div id='div-gpt-ad-oop'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-oop');});</script>
+</div>
+<div id='div-gpt-ad-oop1'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-oop1');});</script>
+</div>
+<script>var base_url='https://www.guesehat.com/';var intervalnotif=null;var resultsearchtimer;function resultsearchchanged(){var hit=$('#q_keyword').data('hit');clearTimeout(resultsearchtimer);resultsearchtimer=setTimeout(function(){if(hit>=7){$('#searchnotfound').show();}else{$('#searchnotfound').hide();}},1000);}function querysearchchanged(identifier){var q_keyword=$('#q_keyword').val();if(q_keyword==''){$('#query_one, #query_two, #query_three, #query_four, #query_five, #query_six, #query_seven').hide();return false;}}var querytimer;function querysearch(identifier){var q_keyword=$('#q_keyword').val();var persistence=$(identifier).data('persistence');var type=$(identifier).data('type');var id=$(identifier).data('id');var page=$(identifier).data('page');var query='keyword='+encodeURIComponent(q_keyword)+'&persistence='+persistence+'&type='+type+'&id='+id+'&page='+page;setInterval(function(){querysearchchanged();},2000);clearTimeout(querytimer);querytimer=setTimeout(function(){$('#q_keyword').data('hit',0);$('#searchnotfound').hide();searchone(query);searchtwo(query);searchthree(query);searchfour(query);searchfive(query);searchsix(query);searchseven(query);},2000);};function searchone(query){$('#query_one_output').empty();$('#query_one_href').hide();$('#query_one_wraploading, #query_one_loading, #query_one').show();$.ajax({type:'GET',dataType:'json',data:query,url:'https://www.guesehat.com/ajax/globalsearch_article',}).done(function(data){$('#query_one_wraploading').hide();if(data.success){$('#query_one_output').empty().append(data.html);$('#query_one_href').show().attr('href',data.href);}else{$('#query_one_wraploading, #query_one_loading, #query_one').hide();var hit=$('#q_keyword').data('hit');$('#q_keyword').data('hit',(parseInt(hit)+1));console.log('Data tidak tersedia');}resultsearchchanged();return false;}).fail(function(error){$('#query_one_wraploading').hide();console.log('Error! Data not validate.');});}function searchtwo(query){$('#query_two_output').empty();$('#query_two_href').hide();$('#query_two_wraploading, #query_two_loading, #query_two').show();$.ajax({type:'GET',dataType:'json',data:query,url:'https://www.guesehat.com/ajax/globalsearch_forum',}).done(function(data){$('#query_two_wraploading').hide();if(data.success){$('#query_two_output').empty().append(data.html);$('#query_two_href').show().attr('href',data.href);}else{$('#query_two_wraploading, #query_two_loading, #query_two').hide();var hit=$('#q_keyword').data('hit');$('#q_keyword').data('hit',(parseInt(hit)+1));console.log('Data tidak tersedia');}resultsearchchanged();return false;}).fail(function(error){$('#query_two_wraploading').hide();console.log('Error! Data not validate.');});}function searchthree(query){$('#query_three_output').empty();$('#query_three_href').hide();$('#query_three_wraploading, #query_three_loading, #query_three').show();$.ajax({type:'GET',dataType:'json',data:query,url:'https://www.guesehat.com/ajax/globalsearch_doctor',}).done(function(data){$('#query_three_wraploading').hide();if(data.success){$('#query_three_output').empty().append(data.html);$('#query_three_href').show().attr('href',data.href);}else{$('#query_three_wraploading, #query_three_loading, #query_three').hide();var hit=$('#q_keyword').data('hit');$('#q_keyword').data('hit',(parseInt(hit)+1));console.log('Data tidak tersedia');}resultsearchchanged();return false;}).fail(function(error){$('#query_three_wraploading').hide();console.log('Error! Data not validate.');});}function searchfour(query){$('#query_four_output').empty();$('#query_four_href').hide();$('#query_four_wraploading, #query_four_loading, #query_four').show();$.ajax({type:'GET',dataType:'json',data:query,url:'https://www.guesehat.com/ajax/globalsearch_directory',}).done(function(data){$('#query_four_wraploading').hide();if(data.success){$('#query_four_output').empty().append(data.html);$('#query_four_href').show().attr('href',data.href);}else{$('#query_four_wraploading, #query_four_loading, #query_four').hide();var hit=$('#q_keyword').data('hit');$('#q_keyword').data('hit',(parseInt(hit)+1));console.log('Data tidak tersedia');}resultsearchchanged();return false;}).fail(function(error){$('#query_four_wraploading').hide();console.log('Error! Data not validate.');});}function searchfive(query){$('#query_five_output').empty();$('#query_five_href').hide();$('#query_five_wraploading, #query_five_loading, #query_five').show();$.ajax({type:'GET',dataType:'json',data:query,url:'https://www.guesehat.com/ajax/globalsearch_disease',}).done(function(data){$('#query_five_wraploading').hide();if(data.success){$('#query_five_output').empty().append(data.html);$('#query_five_href').show().attr('href',data.href);}else{$('#query_five_wraploading, #query_five_loading, #query_five').hide();var hit=$('#q_keyword').data('hit');$('#q_keyword').data('hit',(parseInt(hit)+1));console.log('Data tidak tersedia');}resultsearchchanged();return false;}).fail(function(error){$('#query_five_wraploading').hide();console.log('Error! Data not validate.');});}function searchsix(query){$('#query_six_output').empty();$('#query_six_href').hide();$('#query_six_wraploading, #query_six_loading, #query_six').show();$.ajax({type:'GET',dataType:'json',data:query,url:'https://www.guesehat.com/ajax/globalsearch_obat',}).done(function(data){$('#query_six_wraploading').hide();if(data.success){$('#query_six_output').empty().append(data.html);$('#query_six_href').show().attr('href',data.href);}else{$('#query_six_wraploading, #query_six_loading, #query_six').hide();var hit=$('#q_keyword').data('hit');$('#q_keyword').data('hit',(parseInt(hit)+1));console.log('Data tidak tersedia');}resultsearchchanged();return false;}).fail(function(error){$('#query_six_wraploading').hide();console.log('Error! Data not validate.');});}function searchseven(query){$('#query_seven_output').empty();$('#query_seven_href').hide();$('#query_seven_wraploading, #query_seven_loading, #query_seven').show();$.ajax({type:'GET',dataType:'json',data:query,url:'https://www.guesehat.com/ajax/globalsearch_healthcentre',}).done(function(data){$('#query_seven_wraploading').hide();if(data.success){$('#query_seven_output').empty().append(data.html);$('#query_seven_href').show().attr('href',data.href);}else{$('#query_seven_wraploading, #query_seven_loading, #query_seven').hide();var hit=$('#q_keyword').data('hit');$('#q_keyword').data('hit',(parseInt(hit)+1));console.log('Data tidak tersedia');}resultsearchchanged();return false;}).fail(function(error){$('#query_seven_wraploading').hide();console.log('Error! Data not validate.');});}function alertmodal(message,flag){$('#alertmodal').remove();$('body').append('<div id="alertmodal" class="header-error active" style="z-index: 8;position: fixed;top: 60px;">\
+		<div class="header-error-body">\
+			<div class="header-error-block clearfix">\
+				<div class="header-error-icon"></div>\
+				<div class="header-error-block-detail">\
+					<div class="header-error-title">'+message+'</div>\
+				</div>\
+			</div>\
+			<a class="header-error-button header-error-close" href="javascript:;">Close</a>\
+		</div>\
+	</div>');setHeaderErrorClose();alertModalActive();}function popmodal(message){$('#modalpop').remove();$('body').append('<div class="modal" id="modalpop" style="display: block;">\
+		<div class="modal-block">\
+			<div class="modal-body">\
+				<div class="modal-text">\
+					<p>'+message+'</p>\
+				</div>\
+				<a href="javascript:;" class="modal-x modal-close-trigger"></a>\
+			</div>\
+		</div>\
+	</div>');setModalClose();}function popmodal17plus(message){$('#modalpop').remove();$('body').append('<div class="modal" id="modalpop" style="display: block;">\
+		<div class="modal-block">\
+			<div class="modal-body">\
+				<div class="modal-text">\
+					<p>'+message+'</p>\
+				</div>\
+				<div class="modal-button modal-close-trigger">\
+					<p>Setuju<p>\
+				</div>\
+				<a href="javascript:;" class="modal-x modal-close-trigger"></a>\
+			</div>\
+		</div>\
+	</div>');setModalClose();}function alertverify(){$('#alertmodal').remove();$('body').append('<div id="alertmodal" class="header-error active" style="z-index: 8;position: fixed;top: 60px;">\
+		<div class="header-error-body">\
+			<div class="header-error-block clearfix">\
+				<div class="header-error-icon"></div>\
+				<div class="header-error-block-detail">\
+					<div class="header-error-title">Anda belum verifikasi email, silakan buka email Anda atau <a href="https://www.guesehat.com/member/verification" >klik di sini</a> untuk kirim ulang verifikasi email.</div>\
+				</div>\
+			</div>\
+		</div>\
+	</div>');setHeaderErrorClose();alertModalActive();}var redirectlogintimer;function redirectlogin(){popmodal("Anda harus login terlebih dahulu jika ingin menggunakan fitur ini");clearTimeout(redirectlogintimer);redirectlogintimer=setTimeout(function(){window.location="https://www.guesehat.com/member?destination=obat-asam-urat-tradisional-dan-pantangannya";},2000);}function searchbox(identifier){var content=$('.search-page-cont');var persistence=$(identifier).data('persistence');var keyword=$(identifier).data('keyword');if(typeof keyword=='undefined'){keyword=$('#h_keyword').val();}var type=$(identifier).data('type');var id=$(identifier).data('id');var page=$(identifier).data('page');content.addClass('active');$('body').addClass('noScroll');content.show();$('#q_keyword').val(keyword);$('#q_keyword').attr('data-persistence',persistence);$('#q_keyword').attr('data-type',type);$('#q_keyword').attr('data-id',id);$('#q_keyword').attr('data-page',page);var query='keyword='+keyword+'&persistence='+persistence+'&type='+type+'&id='+id+'&page='+page;searchone(query);searchtwo(query);searchthree(query);searchfour(query);searchfive(query);searchsix(query);searchseven(query);}function relatedgoapotik(tag){$('#relatedgoapotik').empty();$.ajax({type:'GET',dataType:'json',data:'tag='+(typeof tag=='undefined'?'':JSON.stringify(tag)),url:'https://www.guesehat.com/ajax/relatedgoapotik',}).done(function(data){if(data.success){$('#relatedgoapotik').empty().append(data.html);setSlider6();}else{console.log('Data tidak tersedia');}}).fail(function(error){console.log('Error! Data not validate.');});}function notification(){var node=$('#notif_history_list').data('node');$.ajax({type:'GET',dataType:'json',data:'node='+(typeof node=='undefined'?'':node),url:'https://www.guesehat.com/ajax/notification',}).done(function(data){if(data.success){if(data.html){$('#notif_history_list').prepend(data.html);$('#notif_history_list').data('node',data.node);if(parseInt(data.count)>0){$('#notif_count_desktop, #notif_count_mobile').show().text(data.count);}}else{clearInterval(intervalnotif);}}else{clearInterval(intervalnotif);console.log('Data tidak tersedia');}}).fail(function(error){clearInterval(intervalnotif);console.log('Error! Data not validate.');});}function nextnotification(){var node=$('#nextnotification').data('node');$.ajax({type:'GET',dataType:'json',data:'node='+(typeof node=='undefined'?'':node),url:'https://www.guesehat.com/ajax/notification',}).done(function(data){if(data.success){if(data.html){$('#wrapper_notification').append(data.html);$('#nextnotification').data('node',data.node);}else{$('#pagination_notification').hide();}}else{$('#pagination_notification').hide();console.log('Data tidak tersedia');}}).fail(function(error){console.log('Error! Data not validate.');});}function notificationaction(identifier){var node=$(identifier).data('node');var id=$(identifier).data('id');var prefix=$(identifier).data('prefix');var type=$(identifier).data('type');var redirect=$(identifier).data('redirect');if(typeof node=='undefined'){return false;}if(typeof id=='undefined'){return false;}if(typeof prefix=='undefined'){return false;}$.ajax({type:'GET',dataType:'json',data:'node='+node+'&id='+id+'&prefix='+prefix+'&type='+type+'&redirect='+redirect,url:'https://www.guesehat.com/ajax/notificationaction',}).done(function(data){if(data.success){if(data.href){$(identifier).removeClass('new');window.location.href=data.href;}}}).fail(function(error){console.log('Error! Data not validate.');});}function checkAction(link){var answer=confirm('Hai User, apakah yakin melakukan hal ini?');if(answer){window.location=link;}return false;}function sharecontentinline(identifier){var elem=$(identifier);var provider=elem.data('provider');var description=elem.data('description');var href=elem.data('href');if(typeof provider=='undefined'){return false;}if(typeof href=='undefined'||href==null){href='https://www.guesehat.com/obat-asam-urat-tradisional-dan-pantangannya';}var winTop=(screen.height/2)-200;var winLeft=(screen.width/2)-325;if(provider=='facebook'){FB.ui({method:'feed',link:href,picture:'https://static.guesehat.com/static/article/pantangan_makanan_pengobatan_asam_urat_alami_paling_ampuh_1563165233.jpg',name:description,caption:'www.guesehat.com',description:'Nyeri yang muncul di persendian bisa saja lho diakibatkan oleh penyakit asam urat. Lalu, apakah ada obat asam urat tradisional yang efektif meredakan nyeri?',},function(response){});}else if(provider=='twitter'){window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(href)+'&text='+encodeURIComponent(description),'Twitter Share','top='+winTop+',left='+winLeft+',height=400,width=650');}else if(provider=='email'){var link='mailto:?cc=info@guesehat.com&subject='+escape(description)+'&body='+escape(href);window.location.href=link;}else if(provider=='url'){document.oncopy=function(event){event.clipboardData.setData("Text",href);event.preventDefault();};try{var successful=document.execCommand('copy');var msg=(successful?'URL sudah tersalin':'Oops, unsupported');elem.text(msg);elem.addClass('triggered');}catch(err){elem.text('Oops, unsupported');}}else if(provider=='whatsapp'){var link='whatsapp://send?text='+escape(description)+' '+escape(href);window.open(link,'_blank');}}$(document).ready(function(){$('#query_one, #query_two, #query_three, #query_four, #query_five, #query_six, #query_seven').hide();$('#h_keyword').keypress(function(e){if(e.which==13){searchbox();}});$(document).ajaxComplete(function(){$('img').unveil(200);});pinnedcomment();window.fbAsyncInit=function(){FB.init({appId:'875389782609283',status:true,cookie:true,xfbml:true,version:'v2.8'});};(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));$(".likethispage").click(function(e){e.preventDefault();var elem=$(this);var prefix=elem.data('provider');var id=elem.data('id');if(prefix==''||prefix==null){return false;}if(id==''||id==null){return false;}$('#fullpreloading').fadeIn(500);$.ajax({type:'POST',dataType:'json',data:'prefix='+prefix+'&id='+id,url:'https://www.guesehat.com/ajax/likethispage',}).done(function(data){$('#fullpreloading').fadeOut(500);elem.removeClass('likethispage');elem.removeAttr('data-id');if(data.success){elem.addClass('active');elem.closest('div').addClass('active');$('#likedcounterpage'+id).text(data.html);$('#likedactivepage'+id).addClass('active');}else{if(typeof data.redirect!=='undefined'){redirectlogin();}}return false;}).fail(function(error){$('#fullpreloading').fadeOut(500);console.log('Error! Data not validate.');});});$(".reset-field").click(function(e){$('#query_one, #query_two, #query_three, #query_four, #query_five, #query_six, #query_seven').hide();$('#q_keyword').val('');});$(".sharecontent").click(function(e){e.preventDefault();var elem=$(this);var provider=elem.data('provider');if(typeof provider=='undefined'){return false;}var winTop=(screen.height/2)-200;var winLeft=(screen.width/2)-325;if(provider=='facebook'){FB.ui({method:'feed',link:'https://www.guesehat.com/obat-asam-urat-tradisional-dan-pantangannya',picture:'https://static.guesehat.com/static/article/pantangan_makanan_pengobatan_asam_urat_alami_paling_ampuh_1563165233.jpg',name:'Mau Tahu Obat Asam Urat Tradisional dan Pantangannya?',caption:'www.guesehat.com',description:'Nyeri yang muncul di persendian bisa saja lho diakibatkan oleh penyakit asam urat. Lalu, apakah ada obat asam urat tradisional yang efektif meredakan nyeri?',},function(response){});}else if(provider=='twitter'){window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent('https://www.guesehat.com/obat-asam-urat-tradisional-dan-pantangannya')+'&text='+encodeURIComponent('Mau Tahu Obat Asam Urat Tradisional dan Pantangannya?'),'Twitter Share','top='+winTop+',left='+winLeft+',height=400,width=650');}else if(provider=='email'){var link='mailto:?cc=info@guesehat.com&subject='+escape('Mau Tahu Obat Asam Urat Tradisional dan Pantangannya?')+'&body='+escape('Nyeri yang muncul di persendian bisa saja lho diakibatkan oleh penyakit asam urat. Lalu, apakah ada obat asam urat tradisional yang efektif meredakan nyeri?<br/>https://www.guesehat.com/obat-asam-urat-tradisional-dan-pantangannya');window.location.href=link;}else if(provider=='whatsapp'){var link='whatsapp://send?text='+escape('Mau Tahu Obat Asam Urat Tradisional dan Pantangannya?')+' '+escape('https://www.guesehat.com/obat-asam-urat-tradisional-dan-pantangannya');window.location.href=link;}});});</script>
+</body>
+</html>
