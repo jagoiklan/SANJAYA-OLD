@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-US">
     <!-- Google Tag Manager -->
@@ -115,7 +113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="elementor-element elementor-element-224cc4dc elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="224cc4dc" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;shake&quot;}" data-widget_type="button_lp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="cs.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+			<a href="https://premiumkan.com/Iklan/Tomi/Sanjaya/cs.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Beli Atau Konsultasi Lewat WA</span>
 		</span>
@@ -202,7 +200,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="elementor-element elementor-element-f9241fe elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="f9241fe" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;shake&quot;}" data-widget_type="button_lp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="cs.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+			<a href="https://premiumkan.com/Iklan/Tomi/Sanjaya/cs.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Beli Atau Konsultasi Lewat WA</span>
 		</span>
@@ -370,7 +368,7 @@ Kapsul Sanjaya</h2>		</div>
 				<div class="elementor-element elementor-element-3b95bdb5 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="3b95bdb5" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;shake&quot;}" data-widget_type="button_lp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="cs.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+			<a href="https://premiumkan.com/Iklan/Tomi/Sanjaya/cs.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Beli Atau Konsultasi Lewat WA</span>
 		</span>
@@ -490,7 +488,7 @@ Kapsul Sanjaya</h2>		</div>
 				<div class="elementor-element elementor-element-49bcbfd7 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="49bcbfd7" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;headShake&quot;}" data-widget_type="button_lp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="cs.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+			<a href="https://premiumkan.com/Iklan/Tomi/Sanjaya/cs.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Beli Atau Konsultasi Lewat WA</span>
 		</span>
@@ -530,7 +528,7 @@ Kapsul Sanjaya</h2>		</div>
 				<div class="elementor-element elementor-element-65de8f1 elementor-mobile-align-center elementor-widget elementor-widget-button_lp" data-id="65de8f1" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;none&quot;}" data-widget_type="button_lp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper elementor-button-sticky-yes">
-			<a href="cs.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+			<a href="https://premiumkan.com/Iklan/Tomi/Sanjaya/cs.php" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Beli Atau Konsultasi Lewat WA</span>
 		</span>
